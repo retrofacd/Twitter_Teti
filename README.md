@@ -1,4 +1,10 @@
 
+3 Trends by Caroline Teti
+
+1) CNN's twitter handle is overall closest to 0 or negative polarity (at time of search, compound score is 0.158692).
+2) CBS's twitter handle tweets are overall: roughly 35% positive (+1) while world news: BBC falls at 10% and CNN at 0%. 
+3) NY times' compound score or tweet sentiment is more positive than enews or fox news during this search. 
+
 
 ```python
 # Setting Dependencies
@@ -638,214 +644,214 @@ for handle in news_handle:
     Tweet 398: Without this talented group of women, @mirandalambert @reba @MarenMorris @KelseaBallerini and @carrieunderwood, lif… https://t.co/Zwqh2PAdM1
     Tweet 399: RT @ElizabethGilbe3: @carrieunderwood never disappoints! What an amazing voice and beautiful soul! #ACMawards #girlcrush
     Tweet 400: RT @SarahJPrimo: I could listen to Dan and Shay all day  #ACMawards
-    Tweet 401: Ask President Trump's court pick whether the Bible is supreme https://t.co/4DcKzla8Lp (via @CNNOpinion) https://t.co/pwRzq5wc51
-    Tweet 402: Singer Justin Bieber and model Hailey Baldwin are engaged https://t.co/0dVG3qYNRr https://t.co/8urrXKVFkx
-    Tweet 403: Migrants describe their experiences in US custody https://t.co/p1wEg5jkxY https://t.co/EjJSyT5hxe
-    Tweet 404: How President Trump's former lawyer evolved on dealing with special counsel Robert Mueller https://t.co/cMvaLYUuYC https://t.co/RAL0PvYGfc
-    Tweet 405: What's happening this week https://t.co/TErqq4KiB7 https://t.co/4vSaMTzNGh
-    Tweet 406: White House fence jumper who wandered grounds arrested again nearby https://t.co/hu3tw5mxpU https://t.co/cO1orfv1bX
-    Tweet 407: At least 9 injured in annual Running of the Bulls in Spain https://t.co/PUoYWaaiL5 https://t.co/CL7QER9cfz
-    Tweet 408: Secretary of State Mike Pompeo dismisses North Korea's "gangster" comments and says talks are going well… https://t.co/QGUeTR8u8L
-    Tweet 409: The top 6 politics stories ahead this week https://t.co/LqkCZ1OAlV https://t.co/ujQWcCLOvF
-    Tweet 410: Woman dies after being exposed to Soviet-era nerve agent, UK authorities say https://t.co/0RYDsJKElt https://t.co/m6RaYSNxy1
-    Tweet 411: Homeowners come home to ash and rubble as wildfires ravage California https://t.co/UlCVtxP3v1 https://t.co/3HouCkkMrF
-    Tweet 412: Singer Justin Bieber and model Hailey Baldwin got engaged over the weekend, a source close to the singer confirmed… https://t.co/37zlPVddZV
-    Tweet 413: Tariffs cast a shadow as earnings season begins https://t.co/aKQAvdCZTy https://t.co/S8EEMGm439
-    Tweet 414: President Trump "very close" to decision on Supreme Court pick https://t.co/VbCUVsBKIe https://t.co/7IqIAM6yGg
-    Tweet 415: Democrats are feeling down. Now they have to decide which way is up. https://t.co/JuNpexhFHP https://t.co/i4tzOvoe0b
-    Tweet 416: Diplomatic disconnect with North Korea spells trouble for President Trump https://t.co/whCuMEbFlu | Analysis by Cla… https://t.co/Au0RQsK0YB
-    Tweet 417: Two of the boys at the center of the Thai cave rescue had birthdays on the day the group went missing, June 23… https://t.co/3sWW7XDWPE
-    Tweet 418: Republicans agree immigration affects their political future. They don't agree on how. https://t.co/CvNL2Jh2Ko https://t.co/11vXH8WJz9
-    Tweet 419: Egypt's Sameh El Dahan triumphs in an 11-rider jump off to secure victory at the Longines Global Champions Tour Gra… https://t.co/qv69kN9UuR
-    Tweet 420: More accusers say Ohio State team doctor abused them https://t.co/30D8t2OCYd https://t.co/htoBTiIfM0
-    Tweet 421: The US threatened nations in an effort to blunt a World Health Assembly resolution supporting breastfeeding this sp… https://t.co/1WKHDK4f1t
-    Tweet 422: Here are the stories our DC insiders are talking about in this week's "Inside Politics" forecast… https://t.co/38NpTGbhZj
-    Tweet 423: President Trump's attorney, Rudy Giuliani, says he isn't concerned about Michael Cohen possibly cooperating with fe… https://t.co/P1YLS1H8Vx
-    Tweet 424: Democrat Sen. Doug Jones says he could vote either way on President Trump's yet-to-be announced nominee to replace… https://t.co/kVD1HoikVE
-    Tweet 425: "Ant-Man and the Wasp" marks Marvel's 20th straight No. 1 opening https://t.co/6ASdeZeZx0 https://t.co/b4gGzMpvT4
-    Tweet 426: Republican Sen. Jeff Flake says he's concerned about what President Trump might promise Russian President Vladimir… https://t.co/Fczx4QzDal
-    Tweet 427: The Trump administration has released the names of children under the age of 5 who were separated from their parent… https://t.co/52b8uBtoLv
-    Tweet 428: President Trump tweets that the US is working with the Thai government to rescue children trapped in a flooded cave… https://t.co/vtrZAhqbsh
-    Tweet 429: What we know about the boys at the center of the Thai cave rescue https://t.co/uCXOJn0KHT https://t.co/gfeWQfvStU
-    Tweet 430: German racing driver Sebastian Vettel wins British Grand Prix to extend Formula One title lead… https://t.co/wIeH4kx2mB
-    Tweet 431: Why we can't stop watching the Thai cave rescue https://t.co/q47RSLR0gg (via @CNNOpinion) https://t.co/mRXCVOAtHS
-    Tweet 432: Rudy Giuliani confirms the White House contested a request from special counsel Robert Mueller to interview White H… https://t.co/Il50B6vRgY
-    Tweet 433: The 2 obstacles Thai cave rescuers face — water and time https://t.co/zTiMQ7ECsE https://t.co/6gLsajQr5w
-    Tweet 434: President Trump's diplomacy of personal chemistry is facing a huge test, writes Z. Byron Wolf… https://t.co/4C3zeqRqnW
-    Tweet 435: More than 2 million people have been forced to flee their homes and more than 80 have been killed after record rain… https://t.co/mA1Q0v8ZQC
-    Tweet 436: President Trump is being regarded differently going into the NATO summit, writes Julian Zelizer for @CNNOpinion… https://t.co/YgM2EAgiIA
-    Tweet 437: Tropical Storm Beryl weakened but is still pushing toward Puerto Rico https://t.co/ZbG9Q0yU2K https://t.co/w5RbY95npE
-    Tweet 438: The US has no excuse for delay in reuniting immigrant children with their parents, writes Juliette Kayyem for… https://t.co/wKp2OPXcH8
-    Tweet 439: Dehydration. Malnutrition. Post-traumatic stress. As members of the boys' soccer team trapped in a cave in Thailand… https://t.co/jtNmUQ6UBZ
-    Tweet 440: 6 things we learned about the cave rescue efforts from the Thai governor's press conference https://t.co/aJMMKbCKYJ https://t.co/zADgGDedBF
-    Tweet 441: Thai governor says cave evacuations took less time than it did in drills https://t.co/gVSPEtvZXI https://t.co/h9feT1DV34
-    Tweet 442: Ambulances carrying rescued boys just arrived at Chiang Rai hospital https://t.co/cTbWeKQPWt https://t.co/l2zunPuPlE
-    Tweet 443: After 4 boys emerge from the Thai cave, rescuers are focusing on replacing oxygen tanks so they can continue the op… https://t.co/gs8vAx8urs
-    Tweet 444: "A significant number of US military and civilian personnel are there on site in an attempt to aid this rescue effo… https://t.co/dsES3GlKOz
-    Tweet 445: Rudy Giuliani on why President Trump does not fire special counsel Robert Mueller: “Because if he did it, everybody… https://t.co/uyAr3A98fZ
-    Tweet 446: Rudy Guiliani on why President Trump does not fire special counsel Robert Mueller: “Because if he did it, everybody… https://t.co/oBSUE4eNGY
-    Tweet 447: President Trump’s attorney Rudy Giuliani says they can’t find any “factual basis” for special counsel Robert Muelle… https://t.co/iVmhXGzcJu
-    Tweet 448: President Trump tweets that the US is helping the Thai government with the cave rescue https://t.co/eW2lS6FG4V https://t.co/sOfxCaGxQS
-    Tweet 449: A planet-hunting instrument has captured the first confirmed image of a newborn planet that's still forming in our… https://t.co/mdGTSKOYJy
-    Tweet 450: Two Boston Police Department officers sang a duet of "God Bless America," and NYPD officers responded with some sin… https://t.co/7PE19sX3mz
-    Tweet 451: BREAKING: The first of the boys who have been trapped in a cave in Thailand are emerging, according to a rescuer… https://t.co/VBY8TpXdoY
-    Tweet 452: RT @cnnbrk: Divers escort at least three of the Thai boys out of a cave where they've been trapped for two weeks by flood waters, a witness…
-    Tweet 453: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/xmbnZizQ4L
-    Tweet 454: This diver has traveled to the #ThaiCaveRescue site to help, and tells @McKenzieCNN that staying calm will be a key… https://t.co/NJZMVJSvm8
-    Tweet 455: The 12 boys and their coach are aware that an operation to rescue them from a flooded Thai cave has begun, official… https://t.co/Sj6GRDS7ZS
-    Tweet 456: For the families of the boys and coach trapped in a Thai cave, this is the day they've been waiting for -- but it's… https://t.co/TUFeFxq2yy
-    Tweet 457: #ThaiCaveRescue: Weather forecasters predict heavy rains throughout the coming week, increasing the urgency to resc… https://t.co/7dqrCJuA5e
-    Tweet 458: "We have two obstacles; water and time... We have been waiting for this right moment."
+    Tweet 401: What's your favorite scene from the Sopranos? Return to the iconic TV moments that defined the #2000s in the new CN… https://t.co/PCKGBFSW0m
+    Tweet 402: Ask President Trump's court pick whether the Bible is supreme https://t.co/4DcKzla8Lp (via @CNNOpinion) https://t.co/pwRzq5wc51
+    Tweet 403: Singer Justin Bieber and model Hailey Baldwin are engaged https://t.co/0dVG3qYNRr https://t.co/8urrXKVFkx
+    Tweet 404: Migrants describe their experiences in US custody https://t.co/p1wEg5jkxY https://t.co/EjJSyT5hxe
+    Tweet 405: How President Trump's former lawyer evolved on dealing with special counsel Robert Mueller https://t.co/cMvaLYUuYC https://t.co/RAL0PvYGfc
+    Tweet 406: What's happening this week https://t.co/TErqq4KiB7 https://t.co/4vSaMTzNGh
+    Tweet 407: White House fence jumper who wandered grounds arrested again nearby https://t.co/hu3tw5mxpU https://t.co/cO1orfv1bX
+    Tweet 408: At least 9 injured in annual Running of the Bulls in Spain https://t.co/PUoYWaaiL5 https://t.co/CL7QER9cfz
+    Tweet 409: Secretary of State Mike Pompeo dismisses North Korea's "gangster" comments and says talks are going well… https://t.co/QGUeTR8u8L
+    Tweet 410: The top 6 politics stories ahead this week https://t.co/LqkCZ1OAlV https://t.co/ujQWcCLOvF
+    Tweet 411: Woman dies after being exposed to Soviet-era nerve agent, UK authorities say https://t.co/0RYDsJKElt https://t.co/m6RaYSNxy1
+    Tweet 412: Homeowners come home to ash and rubble as wildfires ravage California https://t.co/UlCVtxP3v1 https://t.co/3HouCkkMrF
+    Tweet 413: Singer Justin Bieber and model Hailey Baldwin got engaged over the weekend, a source close to the singer confirmed… https://t.co/37zlPVddZV
+    Tweet 414: Tariffs cast a shadow as earnings season begins https://t.co/aKQAvdCZTy https://t.co/S8EEMGm439
+    Tweet 415: President Trump "very close" to decision on Supreme Court pick https://t.co/VbCUVsBKIe https://t.co/7IqIAM6yGg
+    Tweet 416: Democrats are feeling down. Now they have to decide which way is up. https://t.co/JuNpexhFHP https://t.co/i4tzOvoe0b
+    Tweet 417: Diplomatic disconnect with North Korea spells trouble for President Trump https://t.co/whCuMEbFlu | Analysis by Cla… https://t.co/Au0RQsK0YB
+    Tweet 418: Two of the boys at the center of the Thai cave rescue had birthdays on the day the group went missing, June 23… https://t.co/3sWW7XDWPE
+    Tweet 419: Republicans agree immigration affects their political future. They don't agree on how. https://t.co/CvNL2Jh2Ko https://t.co/11vXH8WJz9
+    Tweet 420: Egypt's Sameh El Dahan triumphs in an 11-rider jump off to secure victory at the Longines Global Champions Tour Gra… https://t.co/qv69kN9UuR
+    Tweet 421: More accusers say Ohio State team doctor abused them https://t.co/30D8t2OCYd https://t.co/htoBTiIfM0
+    Tweet 422: The US threatened nations in an effort to blunt a World Health Assembly resolution supporting breastfeeding this sp… https://t.co/1WKHDK4f1t
+    Tweet 423: Here are the stories our DC insiders are talking about in this week's "Inside Politics" forecast… https://t.co/38NpTGbhZj
+    Tweet 424: President Trump's attorney, Rudy Giuliani, says he isn't concerned about Michael Cohen possibly cooperating with fe… https://t.co/P1YLS1H8Vx
+    Tweet 425: Democrat Sen. Doug Jones says he could vote either way on President Trump's yet-to-be announced nominee to replace… https://t.co/kVD1HoikVE
+    Tweet 426: "Ant-Man and the Wasp" marks Marvel's 20th straight No. 1 opening https://t.co/6ASdeZeZx0 https://t.co/b4gGzMpvT4
+    Tweet 427: Republican Sen. Jeff Flake says he's concerned about what President Trump might promise Russian President Vladimir… https://t.co/Fczx4QzDal
+    Tweet 428: The Trump administration has released the names of children under the age of 5 who were separated from their parent… https://t.co/52b8uBtoLv
+    Tweet 429: President Trump tweets that the US is working with the Thai government to rescue children trapped in a flooded cave… https://t.co/vtrZAhqbsh
+    Tweet 430: What we know about the boys at the center of the Thai cave rescue https://t.co/uCXOJn0KHT https://t.co/gfeWQfvStU
+    Tweet 431: German racing driver Sebastian Vettel wins British Grand Prix to extend Formula One title lead… https://t.co/wIeH4kx2mB
+    Tweet 432: Why we can't stop watching the Thai cave rescue https://t.co/q47RSLR0gg (via @CNNOpinion) https://t.co/mRXCVOAtHS
+    Tweet 433: Rudy Giuliani confirms the White House contested a request from special counsel Robert Mueller to interview White H… https://t.co/Il50B6vRgY
+    Tweet 434: The 2 obstacles Thai cave rescuers face — water and time https://t.co/zTiMQ7ECsE https://t.co/6gLsajQr5w
+    Tweet 435: President Trump's diplomacy of personal chemistry is facing a huge test, writes Z. Byron Wolf… https://t.co/4C3zeqRqnW
+    Tweet 436: More than 2 million people have been forced to flee their homes and more than 80 have been killed after record rain… https://t.co/mA1Q0v8ZQC
+    Tweet 437: President Trump is being regarded differently going into the NATO summit, writes Julian Zelizer for @CNNOpinion… https://t.co/YgM2EAgiIA
+    Tweet 438: Tropical Storm Beryl weakened but is still pushing toward Puerto Rico https://t.co/ZbG9Q0yU2K https://t.co/w5RbY95npE
+    Tweet 439: The US has no excuse for delay in reuniting immigrant children with their parents, writes Juliette Kayyem for… https://t.co/wKp2OPXcH8
+    Tweet 440: Dehydration. Malnutrition. Post-traumatic stress. As members of the boys' soccer team trapped in a cave in Thailand… https://t.co/jtNmUQ6UBZ
+    Tweet 441: 6 things we learned about the cave rescue efforts from the Thai governor's press conference https://t.co/aJMMKbCKYJ https://t.co/zADgGDedBF
+    Tweet 442: Thai governor says cave evacuations took less time than it did in drills https://t.co/gVSPEtvZXI https://t.co/h9feT1DV34
+    Tweet 443: Ambulances carrying rescued boys just arrived at Chiang Rai hospital https://t.co/cTbWeKQPWt https://t.co/l2zunPuPlE
+    Tweet 444: After 4 boys emerge from the Thai cave, rescuers are focusing on replacing oxygen tanks so they can continue the op… https://t.co/gs8vAx8urs
+    Tweet 445: "A significant number of US military and civilian personnel are there on site in an attempt to aid this rescue effo… https://t.co/dsES3GlKOz
+    Tweet 446: Rudy Giuliani on why President Trump does not fire special counsel Robert Mueller: “Because if he did it, everybody… https://t.co/uyAr3A98fZ
+    Tweet 447: Rudy Guiliani on why President Trump does not fire special counsel Robert Mueller: “Because if he did it, everybody… https://t.co/oBSUE4eNGY
+    Tweet 448: President Trump’s attorney Rudy Giuliani says they can’t find any “factual basis” for special counsel Robert Muelle… https://t.co/iVmhXGzcJu
+    Tweet 449: President Trump tweets that the US is helping the Thai government with the cave rescue https://t.co/eW2lS6FG4V https://t.co/sOfxCaGxQS
+    Tweet 450: A planet-hunting instrument has captured the first confirmed image of a newborn planet that's still forming in our… https://t.co/mdGTSKOYJy
+    Tweet 451: Two Boston Police Department officers sang a duet of "God Bless America," and NYPD officers responded with some sin… https://t.co/7PE19sX3mz
+    Tweet 452: BREAKING: The first of the boys who have been trapped in a cave in Thailand are emerging, according to a rescuer… https://t.co/VBY8TpXdoY
+    Tweet 453: RT @cnnbrk: Divers escort at least three of the Thai boys out of a cave where they've been trapped for two weeks by flood waters, a witness…
+    Tweet 454: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/xmbnZizQ4L
+    Tweet 455: This diver has traveled to the #ThaiCaveRescue site to help, and tells @McKenzieCNN that staying calm will be a key… https://t.co/NJZMVJSvm8
+    Tweet 456: The 12 boys and their coach are aware that an operation to rescue them from a flooded Thai cave has begun, official… https://t.co/Sj6GRDS7ZS
+    Tweet 457: For the families of the boys and coach trapped in a Thai cave, this is the day they've been waiting for -- but it's… https://t.co/TUFeFxq2yy
+    Tweet 458: #ThaiCaveRescue: Weather forecasters predict heavy rains throughout the coming week, increasing the urgency to resc… https://t.co/7dqrCJuA5e
+    Tweet 459: "We have two obstacles; water and time... We have been waiting for this right moment."
     
     An attempt to rescue 12 boy… https://t.co/MWPBhpJtDn
-    Tweet 459: The 12 boys and their coach are aware that an operation to rescue them from a flooded Thai cave has begun, official… https://t.co/JisbpxR3jv
-    Tweet 460: In honor of Subaru of America's 50th anniversary, we look back at the company's first model, the Subaru 360 — possi… https://t.co/HTrfd0bGWT
-    Tweet 461: Officials say the rescue mission to free 12 boys and their coach from a flooded Thai cave could take days. Follow l… https://t.co/JMMYeyIcMl
-    Tweet 462: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/hc440xzrYD
-    Tweet 463: Heavy rain has started falling near the Thai cave where an attempt to rescue 12 trapped boys and their soccer coach… https://t.co/ajRhVxSY8c
-    Tweet 464: 13 international divers and 5 Thai Navy SEALs have started the difficult process of freeing 12 boys and their socce… https://t.co/U8TS3KJ2fD
-    Tweet 465: The soccer coach trapped in a cave with 12 boys has apologized to their parents; but the boys' families say they do… https://t.co/53jWK3v03f
-    Tweet 466: Watch these thrill-seekers take a 853-foot bungee jump off the world's highest glass-bottomed bridge… https://t.co/lzrRKX5Kgp
-    Tweet 467: "We have two obstacles; water and time... We have been waiting for this right moment."
+    Tweet 460: The 12 boys and their coach are aware that an operation to rescue them from a flooded Thai cave has begun, official… https://t.co/JisbpxR3jv
+    Tweet 461: In honor of Subaru of America's 50th anniversary, we look back at the company's first model, the Subaru 360 — possi… https://t.co/HTrfd0bGWT
+    Tweet 462: Officials say the rescue mission to free 12 boys and their coach from a flooded Thai cave could take days. Follow l… https://t.co/JMMYeyIcMl
+    Tweet 463: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/hc440xzrYD
+    Tweet 464: Heavy rain has started falling near the Thai cave where an attempt to rescue 12 trapped boys and their soccer coach… https://t.co/ajRhVxSY8c
+    Tweet 465: 13 international divers and 5 Thai Navy SEALs have started the difficult process of freeing 12 boys and their socce… https://t.co/U8TS3KJ2fD
+    Tweet 466: The soccer coach trapped in a cave with 12 boys has apologized to their parents; but the boys' families say they do… https://t.co/53jWK3v03f
+    Tweet 467: Watch these thrill-seekers take a 853-foot bungee jump off the world's highest glass-bottomed bridge… https://t.co/lzrRKX5Kgp
+    Tweet 468: "We have two obstacles; water and time... We have been waiting for this right moment."
     
     An attempt to rescue 12 boy… https://t.co/DDU9bQHSXc
-    Tweet 468: US citizens in Haiti have been warned to stay inside amid demonstrations against a sharp rise in fuel prices ordere… https://t.co/bvZW6aeR0j
-    Tweet 469: Soybean farmers, apple growers and auto workers are among the US workers bracing for fallout from a trade war betwe… https://t.co/pJgG75lFXx
-    Tweet 470: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/5gVYZAiQgY
-    Tweet 471: 83-year-old artist Christo has been creating conceptually challenging, and large-scale work since the late 1950s. N… https://t.co/NQY1wlS4fm
-    Tweet 472: Flooding in southwestern Japan has killed at least 55 people and forced 2 million others to flee their homes https://t.co/kl5tgC50T0
-    Tweet 473: Water levels in parts of the Thai cave where 12 boys and their soccer coach are trapped are now "low enough to walk… https://t.co/LUxn7q5Zn4
-    Tweet 474: The 12 boys and their coach are aware that an operation to rescue them from a flooded Thai cave has begun, official… https://t.co/yhEOb261e6
-    Tweet 475: On Saturday the boys were able to send messages to their families - many told their parents that they loved them, a… https://t.co/eqzRQeJbzD
-    Tweet 476: Officials say the rescue mission to free 12 boys and their coach from a flooded Thai cave could take days. Follow l… https://t.co/IRaAySiV28
-    Tweet 477: A police officer asked a 6-year-old girl in a wheelchair to dance. The internet swooned. https://t.co/lcjkyB8LSz https://t.co/VVlMHLuePu
-    Tweet 478: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/F7lDfDwJ20
-    Tweet 479: Lions killed suspected rhino poachers who sneaked into a South African game reserve https://t.co/l3nGSLbHMk https://t.co/vhC1ZUmMnT
-    Tweet 480: Looking at buildings can actually give people headaches. Here's why https://t.co/zJ0QMIb7eW VIA @CNNStyle https://t.co/SMFnlcEUSW
-    Tweet 481: Disney Imagineering has released video of "Stuntronics" — robots capable of performing impressive stunts at its the… https://t.co/ctL0Mxroom
-    Tweet 482: Xiaomi was once the world's most valuable startup. But escalating trade tensions might now stunt the Chinese smartp… https://t.co/uZvwjpDQbi
-    Tweet 483: A giant 'Trump Baby' balloon is set to be flown close to the UK Parliament during President Trump's upcoming visit… https://t.co/IrD68EeOJJ
-    Tweet 484: Sesame Place is the first theme park to be designated as a Certified Autism Center. 80% of their staff has undergon… https://t.co/Wspl2KLupO
-    Tweet 485: Protesters in Chicago shut down part of a major interstate during a march against gun violence. @RyanYoungNews talk… https://t.co/VXjxPEG2lv
-    Tweet 486: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach trapped for more… https://t.co/IKOn0N4NkQ
-    Tweet 487: England beat Sweden to reach World Cup semifinals for the first time since 1990 https://t.co/gF9aC1Jtgs https://t.co/YmC4XsYKr1
-    Tweet 488: What was your "can’t miss" reality show? @survivorcbs? Making the Band? @CBSBigBrother? Revisit the dawn of reality… https://t.co/czqbBpMb3J
-    Tweet 489: Chicago gun protesters close part of major interstate near downtown https://t.co/18JPXp9xuX https://t.co/tjyVSxXu6g
-    Tweet 490: President Trump keeps claiming credit for fixing things that aren't fixed, writes Z. Byron Wolf… https://t.co/BiPcMEBaMP
-    Tweet 491: US destroyers sail through Taiwan Strait in a move that could heighten tensions between Washington and Beijing… https://t.co/g2L1CgS9C9
-    Tweet 492: Thousands without power in Los Angeles after high demand due to heat wave https://t.co/humfjPvDqI https://t.co/1yD5Vrpiux
-    Tweet 493: President Trump's #MeToo swipe updates his 2016 playbook https://t.co/ufQrSgRS9J | Analysis by Stephen Collinson https://t.co/IkPXKZ3tbj
-    Tweet 494: Separated migrant parents sue US immigration officials for more communication with children https://t.co/RSD5UZx45G https://t.co/o9QlevWGsB
-    Tweet 495: A Republican congressional candidate in Kansas tells an audience that "outside of Western civilization there is onl… https://t.co/SqhU3QH0K4
-    Tweet 496: Sen. Tom Carper says Andrew Wheeler, the new acting head of the Environmental Protection Agency, should do everythi… https://t.co/V7zPAKEQPe
-    Tweet 497: As Haiti protests continue, US citizens warned to shelter in place https://t.co/TGb3qwDS0t https://t.co/b7495Js8GL
-    Tweet 498: Vice President Mike Pence met with potential SCOTUS picks Brett Kavanaugh, Raymond Kethledge and Amy Coney Barrett… https://t.co/OMVUea78cu
-    Tweet 499: UK police officer seeks medical attention in connection with nerve agent incident https://t.co/DwZ1Fxp6LX https://t.co/4VxaF4tGtZ
-    Tweet 500: Ex-Homeland Security secretary under former President Obama opposes Democrats' calls to abolish ICE… https://t.co/6YIsPiTw3x
-    Tweet 501: How England is winning the social media World Cup https://t.co/gyLsNd9Ocy https://t.co/ZujgLcb28J
-    Tweet 502: The immigration crisis is about the devaluation of love, writes Andrew Solomon for @CNNOpinion… https://t.co/vFqUS94jvJ
-    Tweet 503: Demonstrators participated in an Occupy ICE protest and counterprotest in Louisville, Kentucky, on Saturday. Severa… https://t.co/bVUMtxlVA7
-    Tweet 504: Croatia defeats host Russia in World Cup penalty shootout https://t.co/P9FQYi78PE https://t.co/PcLDfsLY7E
-    Tweet 505: Europe's migration policies are not so different from President Trump's, writes Tim Lister https://t.co/qC23dLLOM5 https://t.co/GnOx7CBDYw
-    Tweet 506: US soybean farmers say China tariffs could result in "serious damage" https://t.co/l8ULAXA9YG https://t.co/QLObizQHlc
-    Tweet 507: The Trump administration is expected to halt some payments under the Affordable Care Act's risk adjustment program,… https://t.co/G1c4AYOFa5
-    Tweet 508: Demonstrators participated in an Occupy ICE protest and counterprotest in Louisville, Kentucky, on Saturday. Severa… https://t.co/8e0EJZDAQG
-    Tweet 509: I forgave my father for walking out on me. I hope he forgave me too, writes LZ Granderson for @CNNOpinion.… https://t.co/mSAgA8AHjE
-    Tweet 510: Woman who accused Justin Trudeau of groping says she considers the matter closed https://t.co/lf1a3ymJUx https://t.co/eAPMtmODGu
-    Tweet 511: Settle in with these weekend reads https://t.co/CFcAwnhSCd https://t.co/CBE7Quggod
-    Tweet 512: Boys, soccer coach trapped in Thai cave exchange notes with families https://t.co/bkVsavqX6o https://t.co/weZdNV7uD7
-    Tweet 513: The Trump administration separated families. Reuniting them is a giant mess. https://t.co/KhFwsm62ZR | Analysis by… https://t.co/l4AY3Xmd9q
-    Tweet 514: US service member killed in Afghanistan in apparent insider attack https://t.co/RDjAPBWQtH https://t.co/6eytuAXaem
-    Tweet 515: Fast-moving wildfire kills 1 in California, forces evacuations https://t.co/NVtowXvV8B https://t.co/xL8hQ2rl7Z
-    Tweet 516: Storm clouds pressure rescuers to get 12 young boys and their soccer coach out of the Thai cave, where they remain… https://t.co/ca3vaBtzIO
-    Tweet 517: Women's top seed Simona Halep suffers shock defeat at Wimbledon https://t.co/GWMo4Y4ea5 https://t.co/XbbVXTXIgE
-    Tweet 518: Democrats look for a Conor Lamb redux in Ohio's special election https://t.co/kvjuD0LlJh https://t.co/AxNdMrfJvI
-    Tweet 519: Japan floods and heavy rain leave 8 dead, dozens missing https://t.co/Dl4G5CGylM https://t.co/EydRjrTy3d
-    Tweet 520: President Trump keeps claiming credit for fixing things that aren't fixed, writes Z. Byron Wolf… https://t.co/bHs75PKmIr
-    Tweet 521: Chicago gun protesters close part of major interstate near downtown https://t.co/y8ij4h2Hbu https://t.co/4MvNvgHDwh
-    Tweet 522: Mexico's new leader wants a reboot with the US. How long will the honeymoon last? https://t.co/ZHGidimOxj https://t.co/zGJFbTvUCG
-    Tweet 523: President Trump's personal calls to world leaders leave White House aides in the dark, The Washington Post reports… https://t.co/ObZHaeVUzS
-    Tweet 524: England beats Sweden to reach World Cup semifinals for the first time since 1990 https://t.co/o56PUco4Kn https://t.co/KIulxYtwlO
-    Tweet 525: 2018 may have the largest gender gap on record https://t.co/JPzemTl7BS | Analysis by Harry Enten https://t.co/OUCxtNj4RR
-    Tweet 526: Here's a weekly roundup of the news, notes and chatter about the prospects for the next Democratic presidential rac… https://t.co/TbyV0ZAb5W
-    Tweet 527: Protesters in Chicago have shut down part of a major interstate during a march against gun violence. @RyanYoungNews… https://t.co/NLy5i01x2x
-    Tweet 528: People on social media are debating whether Meghan, the Duchess of Sussex, has adopted a British accent… https://t.co/8e7XehADD1
-    Tweet 529: Hurricane Beryl may weaken, but Puerto Rico and the Caribbean are on alert https://t.co/HA4bR5XFI5 https://t.co/eOcXSFtZa3
-    Tweet 530: Are you a TV geek? How many of these shows from the 2000s can you name? Reunite with your favorite characters in a… https://t.co/SH58ZnwpM0
-    Tweet 531: BREAKING: North Korea calls US attitude in the latest talks "regrettable" after Secretary of State Mike Pompeo said… https://t.co/whWXYp8Yd1
-    Tweet 532: New Bruce Lee bio debunks myths about the "kung fu Jesus" https://t.co/fbOFsEL6IP https://t.co/tBPuN1e7br
-    Tweet 533: This 3-year-old cancer survivor was a flower girl in her bone marrow donor's wedding https://t.co/Td1BrueiMT https://t.co/gw6AB69c1t
-    Tweet 534: A planet-hunting instrument has captured the first confirmed image of a newborn planet that's still forming in our… https://t.co/Fxj0etP6kR
-    Tweet 535: Cerebral palsy didn't stop this 9-year-old girl from saving her baby brother from drowning. Her actions have earned… https://t.co/YZLzayVtgC
-    Tweet 536: 'They treated us as though we were animals': Letters from inside an immigration detention facility… https://t.co/AUo2F7ZcAO
-    Tweet 537: Two Boston Police Department officers sang a duet of "God Bless America," and NYPD officers responded with some sin… https://t.co/d6xUiqUuIu
-    Tweet 538: A former coal lobbyist is the new leader of the Environmental Protection Agency https://t.co/YosHHcAY0u https://t.co/Ll1FciYjql
-    Tweet 539: An anonymous shopper bought $1 million in Toys 'R' Us toys right before stores went out of business.
+    Tweet 469: US citizens in Haiti have been warned to stay inside amid demonstrations against a sharp rise in fuel prices ordere… https://t.co/bvZW6aeR0j
+    Tweet 470: Soybean farmers, apple growers and auto workers are among the US workers bracing for fallout from a trade war betwe… https://t.co/pJgG75lFXx
+    Tweet 471: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/5gVYZAiQgY
+    Tweet 472: 83-year-old artist Christo has been creating conceptually challenging, and large-scale work since the late 1950s. N… https://t.co/NQY1wlS4fm
+    Tweet 473: Flooding in southwestern Japan has killed at least 55 people and forced 2 million others to flee their homes https://t.co/kl5tgC50T0
+    Tweet 474: Water levels in parts of the Thai cave where 12 boys and their soccer coach are trapped are now "low enough to walk… https://t.co/LUxn7q5Zn4
+    Tweet 475: The 12 boys and their coach are aware that an operation to rescue them from a flooded Thai cave has begun, official… https://t.co/yhEOb261e6
+    Tweet 476: On Saturday the boys were able to send messages to their families - many told their parents that they loved them, a… https://t.co/eqzRQeJbzD
+    Tweet 477: Officials say the rescue mission to free 12 boys and their coach from a flooded Thai cave could take days. Follow l… https://t.co/IRaAySiV28
+    Tweet 478: A police officer asked a 6-year-old girl in a wheelchair to dance. The internet swooned. https://t.co/lcjkyB8LSz https://t.co/VVlMHLuePu
+    Tweet 479: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach, who have been t… https://t.co/F7lDfDwJ20
+    Tweet 480: Lions killed suspected rhino poachers who sneaked into a South African game reserve https://t.co/l3nGSLbHMk https://t.co/vhC1ZUmMnT
+    Tweet 481: Looking at buildings can actually give people headaches. Here's why https://t.co/zJ0QMIb7eW VIA @CNNStyle https://t.co/SMFnlcEUSW
+    Tweet 482: Disney Imagineering has released video of "Stuntronics" — robots capable of performing impressive stunts at its the… https://t.co/ctL0Mxroom
+    Tweet 483: Xiaomi was once the world's most valuable startup. But escalating trade tensions might now stunt the Chinese smartp… https://t.co/uZvwjpDQbi
+    Tweet 484: A giant 'Trump Baby' balloon is set to be flown close to the UK Parliament during President Trump's upcoming visit… https://t.co/IrD68EeOJJ
+    Tweet 485: Sesame Place is the first theme park to be designated as a Certified Autism Center. 80% of their staff has undergon… https://t.co/Wspl2KLupO
+    Tweet 486: Protesters in Chicago shut down part of a major interstate during a march against gun violence. @RyanYoungNews talk… https://t.co/VXjxPEG2lv
+    Tweet 487: Divers have entered the Thai cave to begin the rescue operation for 12 boys and their soccer coach trapped for more… https://t.co/IKOn0N4NkQ
+    Tweet 488: England beat Sweden to reach World Cup semifinals for the first time since 1990 https://t.co/gF9aC1Jtgs https://t.co/YmC4XsYKr1
+    Tweet 489: What was your "can’t miss" reality show? @survivorcbs? Making the Band? @CBSBigBrother? Revisit the dawn of reality… https://t.co/czqbBpMb3J
+    Tweet 490: Chicago gun protesters close part of major interstate near downtown https://t.co/18JPXp9xuX https://t.co/tjyVSxXu6g
+    Tweet 491: President Trump keeps claiming credit for fixing things that aren't fixed, writes Z. Byron Wolf… https://t.co/BiPcMEBaMP
+    Tweet 492: US destroyers sail through Taiwan Strait in a move that could heighten tensions between Washington and Beijing… https://t.co/g2L1CgS9C9
+    Tweet 493: Thousands without power in Los Angeles after high demand due to heat wave https://t.co/humfjPvDqI https://t.co/1yD5Vrpiux
+    Tweet 494: President Trump's #MeToo swipe updates his 2016 playbook https://t.co/ufQrSgRS9J | Analysis by Stephen Collinson https://t.co/IkPXKZ3tbj
+    Tweet 495: Separated migrant parents sue US immigration officials for more communication with children https://t.co/RSD5UZx45G https://t.co/o9QlevWGsB
+    Tweet 496: A Republican congressional candidate in Kansas tells an audience that "outside of Western civilization there is onl… https://t.co/SqhU3QH0K4
+    Tweet 497: Sen. Tom Carper says Andrew Wheeler, the new acting head of the Environmental Protection Agency, should do everythi… https://t.co/V7zPAKEQPe
+    Tweet 498: As Haiti protests continue, US citizens warned to shelter in place https://t.co/TGb3qwDS0t https://t.co/b7495Js8GL
+    Tweet 499: Vice President Mike Pence met with potential SCOTUS picks Brett Kavanaugh, Raymond Kethledge and Amy Coney Barrett… https://t.co/OMVUea78cu
+    Tweet 500: UK police officer seeks medical attention in connection with nerve agent incident https://t.co/DwZ1Fxp6LX https://t.co/4VxaF4tGtZ
+    Tweet 501: Ex-Homeland Security secretary under former President Obama opposes Democrats' calls to abolish ICE… https://t.co/6YIsPiTw3x
+    Tweet 502: How England is winning the social media World Cup https://t.co/gyLsNd9Ocy https://t.co/ZujgLcb28J
+    Tweet 503: The immigration crisis is about the devaluation of love, writes Andrew Solomon for @CNNOpinion… https://t.co/vFqUS94jvJ
+    Tweet 504: Demonstrators participated in an Occupy ICE protest and counterprotest in Louisville, Kentucky, on Saturday. Severa… https://t.co/bVUMtxlVA7
+    Tweet 505: Croatia defeats host Russia in World Cup penalty shootout https://t.co/P9FQYi78PE https://t.co/PcLDfsLY7E
+    Tweet 506: Europe's migration policies are not so different from President Trump's, writes Tim Lister https://t.co/qC23dLLOM5 https://t.co/GnOx7CBDYw
+    Tweet 507: US soybean farmers say China tariffs could result in "serious damage" https://t.co/l8ULAXA9YG https://t.co/QLObizQHlc
+    Tweet 508: The Trump administration is expected to halt some payments under the Affordable Care Act's risk adjustment program,… https://t.co/G1c4AYOFa5
+    Tweet 509: Demonstrators participated in an Occupy ICE protest and counterprotest in Louisville, Kentucky, on Saturday. Severa… https://t.co/8e0EJZDAQG
+    Tweet 510: I forgave my father for walking out on me. I hope he forgave me too, writes LZ Granderson for @CNNOpinion.… https://t.co/mSAgA8AHjE
+    Tweet 511: Woman who accused Justin Trudeau of groping says she considers the matter closed https://t.co/lf1a3ymJUx https://t.co/eAPMtmODGu
+    Tweet 512: Settle in with these weekend reads https://t.co/CFcAwnhSCd https://t.co/CBE7Quggod
+    Tweet 513: Boys, soccer coach trapped in Thai cave exchange notes with families https://t.co/bkVsavqX6o https://t.co/weZdNV7uD7
+    Tweet 514: The Trump administration separated families. Reuniting them is a giant mess. https://t.co/KhFwsm62ZR | Analysis by… https://t.co/l4AY3Xmd9q
+    Tweet 515: US service member killed in Afghanistan in apparent insider attack https://t.co/RDjAPBWQtH https://t.co/6eytuAXaem
+    Tweet 516: Fast-moving wildfire kills 1 in California, forces evacuations https://t.co/NVtowXvV8B https://t.co/xL8hQ2rl7Z
+    Tweet 517: Storm clouds pressure rescuers to get 12 young boys and their soccer coach out of the Thai cave, where they remain… https://t.co/ca3vaBtzIO
+    Tweet 518: Women's top seed Simona Halep suffers shock defeat at Wimbledon https://t.co/GWMo4Y4ea5 https://t.co/XbbVXTXIgE
+    Tweet 519: Democrats look for a Conor Lamb redux in Ohio's special election https://t.co/kvjuD0LlJh https://t.co/AxNdMrfJvI
+    Tweet 520: Japan floods and heavy rain leave 8 dead, dozens missing https://t.co/Dl4G5CGylM https://t.co/EydRjrTy3d
+    Tweet 521: President Trump keeps claiming credit for fixing things that aren't fixed, writes Z. Byron Wolf… https://t.co/bHs75PKmIr
+    Tweet 522: Chicago gun protesters close part of major interstate near downtown https://t.co/y8ij4h2Hbu https://t.co/4MvNvgHDwh
+    Tweet 523: Mexico's new leader wants a reboot with the US. How long will the honeymoon last? https://t.co/ZHGidimOxj https://t.co/zGJFbTvUCG
+    Tweet 524: President Trump's personal calls to world leaders leave White House aides in the dark, The Washington Post reports… https://t.co/ObZHaeVUzS
+    Tweet 525: England beats Sweden to reach World Cup semifinals for the first time since 1990 https://t.co/o56PUco4Kn https://t.co/KIulxYtwlO
+    Tweet 526: 2018 may have the largest gender gap on record https://t.co/JPzemTl7BS | Analysis by Harry Enten https://t.co/OUCxtNj4RR
+    Tweet 527: Here's a weekly roundup of the news, notes and chatter about the prospects for the next Democratic presidential rac… https://t.co/TbyV0ZAb5W
+    Tweet 528: Protesters in Chicago have shut down part of a major interstate during a march against gun violence. @RyanYoungNews… https://t.co/NLy5i01x2x
+    Tweet 529: People on social media are debating whether Meghan, the Duchess of Sussex, has adopted a British accent… https://t.co/8e7XehADD1
+    Tweet 530: Hurricane Beryl may weaken, but Puerto Rico and the Caribbean are on alert https://t.co/HA4bR5XFI5 https://t.co/eOcXSFtZa3
+    Tweet 531: Are you a TV geek? How many of these shows from the 2000s can you name? Reunite with your favorite characters in a… https://t.co/SH58ZnwpM0
+    Tweet 532: BREAKING: North Korea calls US attitude in the latest talks "regrettable" after Secretary of State Mike Pompeo said… https://t.co/whWXYp8Yd1
+    Tweet 533: New Bruce Lee bio debunks myths about the "kung fu Jesus" https://t.co/fbOFsEL6IP https://t.co/tBPuN1e7br
+    Tweet 534: This 3-year-old cancer survivor was a flower girl in her bone marrow donor's wedding https://t.co/Td1BrueiMT https://t.co/gw6AB69c1t
+    Tweet 535: A planet-hunting instrument has captured the first confirmed image of a newborn planet that's still forming in our… https://t.co/Fxj0etP6kR
+    Tweet 536: Cerebral palsy didn't stop this 9-year-old girl from saving her baby brother from drowning. Her actions have earned… https://t.co/YZLzayVtgC
+    Tweet 537: 'They treated us as though we were animals': Letters from inside an immigration detention facility… https://t.co/AUo2F7ZcAO
+    Tweet 538: Two Boston Police Department officers sang a duet of "God Bless America," and NYPD officers responded with some sin… https://t.co/d6xUiqUuIu
+    Tweet 539: A former coal lobbyist is the new leader of the Environmental Protection Agency https://t.co/YosHHcAY0u https://t.co/Ll1FciYjql
+    Tweet 540: An anonymous shopper bought $1 million in Toys 'R' Us toys right before stores went out of business.
     
     The toys' des… https://t.co/dabNBge1T3
-    Tweet 540: Anne Frank's family tried in vain to flee to the US, historians say https://t.co/pq7aPEakR4 https://t.co/AM2vRSIk2a
-    Tweet 541: If you use a plastic straw or plastic utensils in Seattle now, get ready to pay. Violators will be subject to a $25… https://t.co/QLLO6t8www
-    Tweet 542: More than 14,000 immigrants across the country just became America's newest citizens. Here are some of their storie… https://t.co/8syn7tmI1q
-    Tweet 543: Watch these thrill-seekers take a 853-foot bungee jump off the world's highest glass-bottomed bridge… https://t.co/9lZtN0ybYN
-    Tweet 544: Scientists have used in-vitro fertilization techniques to develop hybrid rhino embryos -- "test-tube rhinos" -- whi… https://t.co/DdmHrPTmh4
-    Tweet 545: 83-year-old artist Christo has been creating conceptually challenging, and large-scale work since the late 1950s. N… https://t.co/o5oeHI6JWi
-    Tweet 546: Iran executed eight men convicted of terrorism for last year's twin attacks that left 17 people dead in Tehran, sta… https://t.co/ZRe4IjsEKp
-    Tweet 547: French President Emmanuel Macron has praised the skills of an 11-year-old Nigerian artist who drew a stunning portr… https://t.co/4hGAX3ranQ
-    Tweet 548: A police officer asked a 6-year-old girl in a wheelchair to dance. The internet swooned. https://t.co/lcjkyARb11 https://t.co/yQ28gzEOVN
-    Tweet 549: After thousands signed a petition to fly a giant balloon that caricatures President Trump as a baby during his visi… https://t.co/gzQqfXEnqJ
-    Tweet 550: A woman's toenails fell off due to a fish pedicure she'd had months prior, according to a new report… https://t.co/StQBv9YHto
-    Tweet 551: Looking at buildings can actually give people headaches. Here's why https://t.co/l7LYGg7LpO VIA @CNNStyle https://t.co/fjhrScl4Wk
-    Tweet 552: Disney Imagineering has released video of "Stuntronics" — robots capable of performing impressive stunts at its the… https://t.co/hezrRVfsza
-    Tweet 553: Xiaomi was once the world's most valuable startup. But escalating trade tensions might now stunt the Chinese smartp… https://t.co/pkhoGEAepH
-    Tweet 554: This architecture practice has set its sights on building an inflatable, 30-ton disco ball in the Nevada desert for… https://t.co/2qAhl6MGXi
-    Tweet 555: Sesame Place is the first theme park to be designated as a Certified Autism Center. 80% of their staff has undergon… https://t.co/KQPjxB6Cet
-    Tweet 556: Watch Angelica Gonzalez-Garcia and her 8-year-old daughter reunite at Boston's Logan Airport in a CNN exclusive rep… https://t.co/KqOSgXle2O
-    Tweet 557: These expert cave divers show the dangers of cave diving, and why untrained divers like the young boys trapped in a… https://t.co/hyWk0E5sTm
-    Tweet 558: Lions killed suspected rhino poachers who sneaked into a South African game reserve https://t.co/w49vJ0rRN5 https://t.co/51P6zfTY0s
-    Tweet 559: A 3-year-old cancer survivor served as a flower girl in her bone marrow donor's wedding https://t.co/lCbQcTTbYR https://t.co/ZuCeIf9QUz
-    Tweet 560: In honor of Subaru of America's 50th anniversary, we look back at the company's first model, the Subaru 360 — possi… https://t.co/F2FSb9wYlr
-    Tweet 561: Tech billionaire Elon Musk is sending SpaceX and Boring Company engineers to Thailand to help aid the rescue of the… https://t.co/Tg0GRJKLWP
-    Tweet 562: A giant 'Trump Baby' balloon is set to be flown close to the UK Parliament during President Trump's upcoming visit… https://t.co/Tg92h6TdXH
-    Tweet 563: Stephen Ditko, co-creator of Marvel Comics superheroes Spider-Man and Doctor Strange, has died at 90 years old. https://t.co/6MB7nvemUl
-    Tweet 564: There may be a glimmer of hope in the fight to protect people from HIV-1.  A new vaccine appears to be safe and ind… https://t.co/k2J0O35Xhn
-    Tweet 565: Which was your favorite piece of 2000's tech? Your flip phone? MP3 player? PDA? Fire up your blackberry and explore… https://t.co/dxpvswrbAa
-    Tweet 566: The top flutist at the Boston Symphony Orchestra is suing the group because she says she makes only 75% of what a m… https://t.co/9AqyaHFAFV
-    Tweet 567: How a trade war could turn into a recession https://t.co/03d7yPOMEX https://t.co/6xyAR2xBZJ
-    Tweet 568: Mark Zuckerberg is now the third-richest person in the world, bumping Warren Buffett to fourth place… https://t.co/Ovmbupu4Dx
-    Tweet 569: President Trump's Florida resort, Mar-a-Lago, has filed a request to the Department of Labor for 61 visas for forei… https://t.co/8wuphpD5Nu
-    Tweet 570: A class of drugs found in flea medications for pets could help prevent infections in humans https://t.co/erD2oJYeXw https://t.co/JW274d9cn2
-    Tweet 571: Tech billionaire Elon Musk is sending SpaceX and Boring Company engineers to Thailand to help aid the rescue of the… https://t.co/NHsMhBiwOr
-    Tweet 572: With Puerto Rico still recovering from hurricanes Irma and Maria last year, cautious residents filled supermarkets… https://t.co/N9qXVdZAf6
-    Tweet 573: Former RNC finance chair's former mistress sues him and Stormy Daniels' lawyers https://t.co/NFqX7d3MW2 https://t.co/TFcwoAOG03
-    Tweet 574: It's been more than a week since a federal judge in California ordered the Trump administration to reunite the fami… https://t.co/SOqngJpJwR
-    Tweet 575: Trump's legal team demanded that before the President agrees to an interview, the special counsel's team must prove… https://t.co/T7x09MmuI7
-    Tweet 576: After thousands signed a petition to fly a giant balloon that caricatures President Trump as a baby during his visi… https://t.co/576K1JEqKB
-    Tweet 577: Two Boston Police Department officers sang a duet of "God Bless America," and NYPD officers responded with some sin… https://t.co/unDSqh08Hb
-    Tweet 578: One of the energy companies that the new EPA head worked for as a lobbyist is seeking contracts from the agency, ra… https://t.co/XnyoxfqFEK
-    Tweet 579: OUT: Scott Pruitt. IN: Bill Shine | Analysis by @CillizzaCNN https://t.co/Wgr8JpJUWB https://t.co/x70bG5j6zU
-    Tweet 580: RT @AC360: "It's a reality television show, inside of a soap opera, wrapped up in a thriller, and deep fried in some crazy," says @VanJones…
-    Tweet 581: Special counsel prosecutors say a banker allegedly helped former Trump campaign chief Paul Manafort obtain loans wh… https://t.co/Au3LdmdLdL
-    Tweet 582: Just days ahead of a deadline, the Trump administration said it may need more time to reunite some of the immigrant… https://t.co/EhPpHrYGY3
-    Tweet 583: RT @AC360: "Every American should be embarrassed by the level of incompetence that is being revealed through this process," says CNN's @ana…
-    Tweet 584: Bereaved mom and Democratic candidate Lucy McBath pushes gun control as she bids to win Georgia's 6th Congressional… https://t.co/7hkJKp6yQs
-    Tweet 585: Whether trapped in a cave or held by the US, children need us to care | By Jill Filipovic via @CNNOpinion… https://t.co/Uy4ixyJtxr
-    Tweet 586: RT @AC360: CNN’s @JohnBerman: Where are the kids? The administration claimed they could find any child’s parents within a few keystrokes —…
-    Tweet 587: Washington put tariffs on $34 billion worth of Chinese goods on Friday, and Beijing immediately responded with pena… https://t.co/iC1LXyqk1K
-    Tweet 588: There may be a glimmer of hope in the fight to protect people from HIV-1.  A new vaccine appears to be safe and ind… https://t.co/1GEKBm6kuS
-    Tweet 589: RT @OutFrontCNN: "I've literally never heard anyone talk the way Donald Trump does... don't slur your fellow Republicans... by saying that…
-    Tweet 590: British PM Theresa May and her government have agreed on a "business-friendly" plan for Brexit.
+    Tweet 541: Anne Frank's family tried in vain to flee to the US, historians say https://t.co/pq7aPEakR4 https://t.co/AM2vRSIk2a
+    Tweet 542: If you use a plastic straw or plastic utensils in Seattle now, get ready to pay. Violators will be subject to a $25… https://t.co/QLLO6t8www
+    Tweet 543: More than 14,000 immigrants across the country just became America's newest citizens. Here are some of their storie… https://t.co/8syn7tmI1q
+    Tweet 544: Watch these thrill-seekers take a 853-foot bungee jump off the world's highest glass-bottomed bridge… https://t.co/9lZtN0ybYN
+    Tweet 545: Scientists have used in-vitro fertilization techniques to develop hybrid rhino embryos -- "test-tube rhinos" -- whi… https://t.co/DdmHrPTmh4
+    Tweet 546: 83-year-old artist Christo has been creating conceptually challenging, and large-scale work since the late 1950s. N… https://t.co/o5oeHI6JWi
+    Tweet 547: Iran executed eight men convicted of terrorism for last year's twin attacks that left 17 people dead in Tehran, sta… https://t.co/ZRe4IjsEKp
+    Tweet 548: French President Emmanuel Macron has praised the skills of an 11-year-old Nigerian artist who drew a stunning portr… https://t.co/4hGAX3ranQ
+    Tweet 549: A police officer asked a 6-year-old girl in a wheelchair to dance. The internet swooned. https://t.co/lcjkyARb11 https://t.co/yQ28gzEOVN
+    Tweet 550: After thousands signed a petition to fly a giant balloon that caricatures President Trump as a baby during his visi… https://t.co/gzQqfXEnqJ
+    Tweet 551: A woman's toenails fell off due to a fish pedicure she'd had months prior, according to a new report… https://t.co/StQBv9YHto
+    Tweet 552: Looking at buildings can actually give people headaches. Here's why https://t.co/l7LYGg7LpO VIA @CNNStyle https://t.co/fjhrScl4Wk
+    Tweet 553: Disney Imagineering has released video of "Stuntronics" — robots capable of performing impressive stunts at its the… https://t.co/hezrRVfsza
+    Tweet 554: Xiaomi was once the world's most valuable startup. But escalating trade tensions might now stunt the Chinese smartp… https://t.co/pkhoGEAepH
+    Tweet 555: This architecture practice has set its sights on building an inflatable, 30-ton disco ball in the Nevada desert for… https://t.co/2qAhl6MGXi
+    Tweet 556: Sesame Place is the first theme park to be designated as a Certified Autism Center. 80% of their staff has undergon… https://t.co/KQPjxB6Cet
+    Tweet 557: Watch Angelica Gonzalez-Garcia and her 8-year-old daughter reunite at Boston's Logan Airport in a CNN exclusive rep… https://t.co/KqOSgXle2O
+    Tweet 558: These expert cave divers show the dangers of cave diving, and why untrained divers like the young boys trapped in a… https://t.co/hyWk0E5sTm
+    Tweet 559: Lions killed suspected rhino poachers who sneaked into a South African game reserve https://t.co/w49vJ0rRN5 https://t.co/51P6zfTY0s
+    Tweet 560: A 3-year-old cancer survivor served as a flower girl in her bone marrow donor's wedding https://t.co/lCbQcTTbYR https://t.co/ZuCeIf9QUz
+    Tweet 561: In honor of Subaru of America's 50th anniversary, we look back at the company's first model, the Subaru 360 — possi… https://t.co/F2FSb9wYlr
+    Tweet 562: Tech billionaire Elon Musk is sending SpaceX and Boring Company engineers to Thailand to help aid the rescue of the… https://t.co/Tg0GRJKLWP
+    Tweet 563: A giant 'Trump Baby' balloon is set to be flown close to the UK Parliament during President Trump's upcoming visit… https://t.co/Tg92h6TdXH
+    Tweet 564: Stephen Ditko, co-creator of Marvel Comics superheroes Spider-Man and Doctor Strange, has died at 90 years old. https://t.co/6MB7nvemUl
+    Tweet 565: There may be a glimmer of hope in the fight to protect people from HIV-1.  A new vaccine appears to be safe and ind… https://t.co/k2J0O35Xhn
+    Tweet 566: Which was your favorite piece of 2000's tech? Your flip phone? MP3 player? PDA? Fire up your blackberry and explore… https://t.co/dxpvswrbAa
+    Tweet 567: The top flutist at the Boston Symphony Orchestra is suing the group because she says she makes only 75% of what a m… https://t.co/9AqyaHFAFV
+    Tweet 568: How a trade war could turn into a recession https://t.co/03d7yPOMEX https://t.co/6xyAR2xBZJ
+    Tweet 569: Mark Zuckerberg is now the third-richest person in the world, bumping Warren Buffett to fourth place… https://t.co/Ovmbupu4Dx
+    Tweet 570: President Trump's Florida resort, Mar-a-Lago, has filed a request to the Department of Labor for 61 visas for forei… https://t.co/8wuphpD5Nu
+    Tweet 571: A class of drugs found in flea medications for pets could help prevent infections in humans https://t.co/erD2oJYeXw https://t.co/JW274d9cn2
+    Tweet 572: Tech billionaire Elon Musk is sending SpaceX and Boring Company engineers to Thailand to help aid the rescue of the… https://t.co/NHsMhBiwOr
+    Tweet 573: With Puerto Rico still recovering from hurricanes Irma and Maria last year, cautious residents filled supermarkets… https://t.co/N9qXVdZAf6
+    Tweet 574: Former RNC finance chair's former mistress sues him and Stormy Daniels' lawyers https://t.co/NFqX7d3MW2 https://t.co/TFcwoAOG03
+    Tweet 575: It's been more than a week since a federal judge in California ordered the Trump administration to reunite the fami… https://t.co/SOqngJpJwR
+    Tweet 576: Trump's legal team demanded that before the President agrees to an interview, the special counsel's team must prove… https://t.co/T7x09MmuI7
+    Tweet 577: After thousands signed a petition to fly a giant balloon that caricatures President Trump as a baby during his visi… https://t.co/576K1JEqKB
+    Tweet 578: Two Boston Police Department officers sang a duet of "God Bless America," and NYPD officers responded with some sin… https://t.co/unDSqh08Hb
+    Tweet 579: One of the energy companies that the new EPA head worked for as a lobbyist is seeking contracts from the agency, ra… https://t.co/XnyoxfqFEK
+    Tweet 580: OUT: Scott Pruitt. IN: Bill Shine | Analysis by @CillizzaCNN https://t.co/Wgr8JpJUWB https://t.co/x70bG5j6zU
+    Tweet 581: RT @AC360: "It's a reality television show, inside of a soap opera, wrapped up in a thriller, and deep fried in some crazy," says @VanJones…
+    Tweet 582: Special counsel prosecutors say a banker allegedly helped former Trump campaign chief Paul Manafort obtain loans wh… https://t.co/Au3LdmdLdL
+    Tweet 583: Just days ahead of a deadline, the Trump administration said it may need more time to reunite some of the immigrant… https://t.co/EhPpHrYGY3
+    Tweet 584: RT @AC360: "Every American should be embarrassed by the level of incompetence that is being revealed through this process," says CNN's @ana…
+    Tweet 585: Bereaved mom and Democratic candidate Lucy McBath pushes gun control as she bids to win Georgia's 6th Congressional… https://t.co/7hkJKp6yQs
+    Tweet 586: Whether trapped in a cave or held by the US, children need us to care | By Jill Filipovic via @CNNOpinion… https://t.co/Uy4ixyJtxr
+    Tweet 587: RT @AC360: CNN’s @JohnBerman: Where are the kids? The administration claimed they could find any child’s parents within a few keystrokes —…
+    Tweet 588: Washington put tariffs on $34 billion worth of Chinese goods on Friday, and Beijing immediately responded with pena… https://t.co/iC1LXyqk1K
+    Tweet 589: There may be a glimmer of hope in the fight to protect people from HIV-1.  A new vaccine appears to be safe and ind… https://t.co/1GEKBm6kuS
+    Tweet 590: RT @OutFrontCNN: "I've literally never heard anyone talk the way Donald Trump does... don't slur your fellow Republicans... by saying that…
+    Tweet 591: British PM Theresa May and her government have agreed on a "business-friendly" plan for Brexit.
     
     The proposal seeks… https://t.co/soqa3BY6Zb
-    Tweet 591: Xiaomi was once the world's most valuable startup. But escalating trade tensions might now stunt the Chinese smartp… https://t.co/PdWb05TRec
-    Tweet 592: A new accuser has come forward to say that he, too, was sexually assaulted by a doctor who treated Ohio State Unive… https://t.co/boe5HBsKKm
-    Tweet 593: RT @OutFrontCNN: Calling it “cruel and immoral,” Republican Rep. Mike Coffman calls for an end to the policy that has resulted in the separ…
-    Tweet 594: “I don’t think either side wins in a trade war,” says former US Trade Representative Carla Hills, after the US and… https://t.co/d6C9dRweML
-    Tweet 595: The top flutist at the Boston Symphony Orchestra is suing the group because she says she makes only 75% of what a m… https://t.co/Zwu9D2yGxS
-    Tweet 596: Watch Angelica Gonzalez-Garcia and her 8-year-old daughter reunite at Boston's Logan Airport in a CNN exclusive rep… https://t.co/keWXXr4O1S
-    Tweet 597: These expert cave divers show the dangers of cave diving, and why untrained divers like the young boys trapped in a… https://t.co/4LvGO4Jf2w
-    Tweet 598: "There are no words other than 'Thank you, God,' " South Carolina state Rep. Katie Arrington said, speaking out for… https://t.co/M1Fll0N2EH
-    Tweet 599: Leandra English, a top Consumer Financial Protection Bureau official, is stepping down from the agency and ending a… https://t.co/fB3ifsAY6D
-    Tweet 600: 35-year-old entrepreneur Chike Ukaegbu is running for president of Nigeria https://t.co/vqAqVNqtgA https://t.co/aAiNXo0XjJ
+    Tweet 592: Xiaomi was once the world's most valuable startup. But escalating trade tensions might now stunt the Chinese smartp… https://t.co/PdWb05TRec
+    Tweet 593: A new accuser has come forward to say that he, too, was sexually assaulted by a doctor who treated Ohio State Unive… https://t.co/boe5HBsKKm
+    Tweet 594: RT @OutFrontCNN: Calling it “cruel and immoral,” Republican Rep. Mike Coffman calls for an end to the policy that has resulted in the separ…
+    Tweet 595: “I don’t think either side wins in a trade war,” says former US Trade Representative Carla Hills, after the US and… https://t.co/d6C9dRweML
+    Tweet 596: The top flutist at the Boston Symphony Orchestra is suing the group because she says she makes only 75% of what a m… https://t.co/Zwu9D2yGxS
+    Tweet 597: Watch Angelica Gonzalez-Garcia and her 8-year-old daughter reunite at Boston's Logan Airport in a CNN exclusive rep… https://t.co/keWXXr4O1S
+    Tweet 598: These expert cave divers show the dangers of cave diving, and why untrained divers like the young boys trapped in a… https://t.co/4LvGO4Jf2w
+    Tweet 599: "There are no words other than 'Thank you, God,' " South Carolina state Rep. Katie Arrington said, speaking out for… https://t.co/M1Fll0N2EH
+    Tweet 600: Leandra English, a top Consumer Financial Protection Bureau official, is stepping down from the agency and ending a… https://t.co/fB3ifsAY6D
     Tweet 601: @andrewvijay Everywhere to be honest. That particular one was in the US. That mostly doesn’t happen in Australia.
     Tweet 602: @mctrebo Boston
     Tweet 603: @LukesBeard It’s the most annoying thing that all social media, including Instagram, butchers the quality of photos… https://t.co/7y8A7IuLcT
@@ -1156,223 +1162,223 @@ for handle in news_handle:
     Tweet 800: Speaking of language and pointing out toxic cultures, „crazy” is an ableist term.
     
     https://t.co/kTxqSHvPMe… https://t.co/ceQIDvqcV1
-    Tweet 801: Not long before his death, XXXTentacion signed a $10 million deal for his next album, which could still be out this… https://t.co/TLQC9VTLNq
-    Tweet 802: A curator has filed a complaint against MoMA PS1, saying a job offer was rescinded after she mentioned she had just… https://t.co/y2DDswKgGf
-    Tweet 803: Let’s Celebrate the 14th Amendment https://t.co/bh9ZJ21tcz
-    Tweet 804: Government Work Done, Tax Policy Writers Decamp to Lobbying Jobs https://t.co/6m4F0xizv4
-    Tweet 805: Scott Pruitt’s fall from the EPA is a story of his diminishing relationship with many of his closest loyalists https://t.co/wzH30eJycE
-    Tweet 806: RT @nytopinion: Juice contains limited nutrients and tons of sugar. In fact, one 12-ounce glass of orange juice contains 10 teaspoons of su…
-    Tweet 807: The Science (and the Scientists) Behind ‘Ant-Man’ https://t.co/xnMi6QmJle
-    Tweet 808: "Followed the recipe exactly. Perfectly done potatoes, succulent meat, crispy skin, and great overall depth of flav… https://t.co/fY5bhSc2EQ
-    Tweet 809: Every year, a Japanese-American man visits the internment camp in California where he and his family were held when… https://t.co/ir8flntkFT
-    Tweet 810: Long ago, Nick Offerman and Megan Mullally made a rule that they would never be apart for more than 2 weeks https://t.co/zXgXhIq8X9
-    Tweet 811: Talk: Thandie Newton Wants to See More Diversity in Sci-Fi https://t.co/GPmnLk7TXk
-    Tweet 812: In Opinion
+    Tweet 801: In Alabama, a man known as a prisoner's rights advocate is facing death row. But he didn't kill anyone. https://t.co/sojbX3HBX2
+    Tweet 802: Not long before his death, XXXTentacion signed a $10 million deal for his next album, which could still be out this… https://t.co/TLQC9VTLNq
+    Tweet 803: A curator has filed a complaint against MoMA PS1, saying a job offer was rescinded after she mentioned she had just… https://t.co/y2DDswKgGf
+    Tweet 804: Let’s Celebrate the 14th Amendment https://t.co/bh9ZJ21tcz
+    Tweet 805: Government Work Done, Tax Policy Writers Decamp to Lobbying Jobs https://t.co/6m4F0xizv4
+    Tweet 806: Scott Pruitt’s fall from the EPA is a story of his diminishing relationship with many of his closest loyalists https://t.co/wzH30eJycE
+    Tweet 807: RT @nytopinion: Juice contains limited nutrients and tons of sugar. In fact, one 12-ounce glass of orange juice contains 10 teaspoons of su…
+    Tweet 808: The Science (and the Scientists) Behind ‘Ant-Man’ https://t.co/xnMi6QmJle
+    Tweet 809: "Followed the recipe exactly. Perfectly done potatoes, succulent meat, crispy skin, and great overall depth of flav… https://t.co/fY5bhSc2EQ
+    Tweet 810: Every year, a Japanese-American man visits the internment camp in California where he and his family were held when… https://t.co/ir8flntkFT
+    Tweet 811: Long ago, Nick Offerman and Megan Mullally made a rule that they would never be apart for more than 2 weeks https://t.co/zXgXhIq8X9
+    Tweet 812: Talk: Thandie Newton Wants to See More Diversity in Sci-Fi https://t.co/GPmnLk7TXk
+    Tweet 813: In Opinion
     
     Op-Ed contributor Keith Gessen writes, "Having lived in Russia, I know in my bones how complicated a pl… https://t.co/U0XWnfPqhr
-    Tweet 813: Before there was the Thai boys’ soccer team, there was Baby Jessica https://t.co/tKii3KxBCO
-    Tweet 814: HBO Must Get Bigger and Broader, Says Its New Overseer https://t.co/mBznYigaHg
-    Tweet 815: Here are the week’s top stories, and a look ahead https://t.co/fwVTP3wRLV
-    Tweet 816: A British woman who was exposed to a nerve agent that sickened a former Russian spy has died, adding a murder inqui… https://t.co/6l9mADa0v7
-    Tweet 817: Here are some ideas for what to cook this week https://t.co/MUKhSg30Xd
-    Tweet 818: President Trump is expressing fresh interest in Judge Thomas M. Hardiman, the runner-up for last year’s Supreme Cou… https://t.co/t3oA4213sD
-    Tweet 819: Amazon shoppers can buy onesies for babies stamped with alt-right images, Nazi-themed action figures and anti-Semit… https://t.co/B20DgWfc2a
-    Tweet 820: As Canada prepares for legal pot, a financial boom not seen since the dot-com mania of the late 1990s has overtaken… https://t.co/bMFMwOhPZB
-    Tweet 821: For its 50th anniversary, the Man Booker Prize held a public vote to pick the best ever Man Booker winner https://t.co/Lr9xaZO9zK
-    Tweet 822: The French actress Emmanuelle Seigner rejected an invitation to join the Academy of Motion Picture Arts and Science… https://t.co/o1i0DBIrVF
-    Tweet 823: Tales of death on a Colombian ranch have led prosecutors to one of the most powerful political clans in Colombia, w… https://t.co/L9AsM0Tq5n
-    Tweet 824: State governments “are still learning there’s an age law,” said one attorney, despite the fact it has been on the b… https://t.co/PHk5nDJyMd
-    Tweet 825: Much of the research in this growing field of “experimental aesthetics” boils down to efforts to solve two age-old… https://t.co/xmF91DC8px
-    Tweet 826: In Alabama, a man known as a prisoner's rights advocate is facing death row. But he didn't kill anyone. https://t.co/EfbD5Gc6Xn
-    Tweet 827: Both Democrats and Republicans face open questions about their leaders’ futures and neither party certain of which… https://t.co/oYz8NhCbgQ
-    Tweet 828: A curator has filed a complaint against MoMA PS1, saying a job offer was rescinded after she mentioned she had just… https://t.co/edaOgB4VxI
-    Tweet 829: Beijing is embracing technologies like facial recognition and artificial intelligence to identify and track 1.4 bil… https://t.co/BheJCMD3ii
-    Tweet 830: A top flutist has filed a gender pay discrimination suit, saying that her pay is only 75 percent as much as her clo… https://t.co/24QhPGNhEl
-    Tweet 831: Even Marvel’s smallest characters pack a hefty punch https://t.co/v6lT1QXlEV
-    Tweet 832: The brief endorsement of a Holocaust denier by a major political party in California has prompted Republican leader… https://t.co/Kev7LIpXZR
-    Tweet 833: With the soccer team’s plight approaching the two-week mark, here’s what is known https://t.co/mDTRuwOxZR
-    Tweet 834: Japanese officials pleaded with millions of people to evacuate as landslides and floods battered the country https://t.co/rgqEGZSaAg
-    Tweet 835: Secretary of State Mike Pompeo shot back at North Korean officials for characterizing American diplomatic behavior… https://t.co/5fWdyE7w0Y
-    Tweet 836: The Trump administration said it was suspending a program that pays billions to insurers to stabilize insurance mar… https://t.co/wYPxz2PTAG
-    Tweet 837: Mitch McConnell has told President Trump that the lengthy paper trail of a top Supreme Court contender, Brett Kavan… https://t.co/kgoid1HdAv
-    Tweet 838: “It feels like the Egyptian dancer is an endangered species, which is very sad,” an American belly dancer said. “Sa… https://t.co/DUXRTZ2rxe
-    Tweet 839: The mayor of Lancaster, Pennsylvania, said that the officer who fired the Taser at the unarmed man had complied wit… https://t.co/Hv8cb1QqAL
-    Tweet 840: Not long before his death, XXXTentacion signed a $10 million deal for his next album, which could still be out this… https://t.co/c7T6oZRpGj
-    Tweet 841: 3 social media stars who made a living traveling the world and chronicling their experiences online died last week… https://t.co/83XgAngFCk
-    Tweet 842: Every year, a Japanese-American man visits the internment camp in California where he and his family were held when… https://t.co/8jgrmvQ8df
-    Tweet 843: First comes love, then comes … prenup? 💸 https://t.co/euENzMqGsu
-    Tweet 844: Human rights advocates say that this is the latest in a series of overly severe judgments aimed at stamping out dis… https://t.co/QohAVKBQFe
-    Tweet 845: Elon Musk offered strategies on how save the boys trapped in a Thai cave. One idea uses part of a SpaceX rocket to… https://t.co/a1cU6eP4nW
-    Tweet 846: A resolution to encourage breast-feeding was expected to be approved quickly and easily. Then the U.S.  delegation,… https://t.co/lZPR17RI51
-    Tweet 847: Thailand Cave Rescue Live Updates: At Least 4 Boys Leave Cave, Officials Say https://t.co/T1o7K1KnHo
-    Tweet 848: 4 of the Thai boys have safely made the harrowing underwater passage out of the cave and were at the local hospital https://t.co/vcyK0Z6SjR
-    Tweet 849: Lawyers for President Trump’s former campaign chairman want to move the trial away from Washington, where they say… https://t.co/HgyapL7pN0
-    Tweet 850: Need more World Cup content in between games? Try these books. https://t.co/iyEivYlA9O
-    Tweet 851: This French start-up says it has created fashion’s first search engine. But what does that even mean? https://t.co/uThFCUQLvQ
-    Tweet 852: There are schools inside the shelters and detention centers housing migrant children. The education offered is unev… https://t.co/gfeekjYxNa
-    Tweet 853: Scott Pruitt’s fall from the EPA is a story of his diminishing relationship with many of his closest loyalists https://t.co/nLipsbEuHj
-    Tweet 854: Breaking News: The first members of the soccer team trapped in a cave in Thailand have been rescued, officials say
+    Tweet 814: Before there was the Thai boys’ soccer team, there was Baby Jessica https://t.co/tKii3KxBCO
+    Tweet 815: HBO Must Get Bigger and Broader, Says Its New Overseer https://t.co/mBznYigaHg
+    Tweet 816: Here are the week’s top stories, and a look ahead https://t.co/fwVTP3wRLV
+    Tweet 817: A British woman who was exposed to a nerve agent that sickened a former Russian spy has died, adding a murder inqui… https://t.co/6l9mADa0v7
+    Tweet 818: Here are some ideas for what to cook this week https://t.co/MUKhSg30Xd
+    Tweet 819: President Trump is expressing fresh interest in Judge Thomas M. Hardiman, the runner-up for last year’s Supreme Cou… https://t.co/t3oA4213sD
+    Tweet 820: Amazon shoppers can buy onesies for babies stamped with alt-right images, Nazi-themed action figures and anti-Semit… https://t.co/B20DgWfc2a
+    Tweet 821: As Canada prepares for legal pot, a financial boom not seen since the dot-com mania of the late 1990s has overtaken… https://t.co/bMFMwOhPZB
+    Tweet 822: For its 50th anniversary, the Man Booker Prize held a public vote to pick the best ever Man Booker winner https://t.co/Lr9xaZO9zK
+    Tweet 823: The French actress Emmanuelle Seigner rejected an invitation to join the Academy of Motion Picture Arts and Science… https://t.co/o1i0DBIrVF
+    Tweet 824: Tales of death on a Colombian ranch have led prosecutors to one of the most powerful political clans in Colombia, w… https://t.co/L9AsM0Tq5n
+    Tweet 825: State governments “are still learning there’s an age law,” said one attorney, despite the fact it has been on the b… https://t.co/PHk5nDJyMd
+    Tweet 826: Much of the research in this growing field of “experimental aesthetics” boils down to efforts to solve two age-old… https://t.co/xmF91DC8px
+    Tweet 827: In Alabama, a man known as a prisoner's rights advocate is facing death row. But he didn't kill anyone. https://t.co/EfbD5Gc6Xn
+    Tweet 828: Both Democrats and Republicans face open questions about their leaders’ futures and neither party certain of which… https://t.co/oYz8NhCbgQ
+    Tweet 829: A curator has filed a complaint against MoMA PS1, saying a job offer was rescinded after she mentioned she had just… https://t.co/edaOgB4VxI
+    Tweet 830: Beijing is embracing technologies like facial recognition and artificial intelligence to identify and track 1.4 bil… https://t.co/BheJCMD3ii
+    Tweet 831: A top flutist has filed a gender pay discrimination suit, saying that her pay is only 75 percent as much as her clo… https://t.co/24QhPGNhEl
+    Tweet 832: Even Marvel’s smallest characters pack a hefty punch https://t.co/v6lT1QXlEV
+    Tweet 833: The brief endorsement of a Holocaust denier by a major political party in California has prompted Republican leader… https://t.co/Kev7LIpXZR
+    Tweet 834: With the soccer team’s plight approaching the two-week mark, here’s what is known https://t.co/mDTRuwOxZR
+    Tweet 835: Japanese officials pleaded with millions of people to evacuate as landslides and floods battered the country https://t.co/rgqEGZSaAg
+    Tweet 836: Secretary of State Mike Pompeo shot back at North Korean officials for characterizing American diplomatic behavior… https://t.co/5fWdyE7w0Y
+    Tweet 837: The Trump administration said it was suspending a program that pays billions to insurers to stabilize insurance mar… https://t.co/wYPxz2PTAG
+    Tweet 838: Mitch McConnell has told President Trump that the lengthy paper trail of a top Supreme Court contender, Brett Kavan… https://t.co/kgoid1HdAv
+    Tweet 839: “It feels like the Egyptian dancer is an endangered species, which is very sad,” an American belly dancer said. “Sa… https://t.co/DUXRTZ2rxe
+    Tweet 840: The mayor of Lancaster, Pennsylvania, said that the officer who fired the Taser at the unarmed man had complied wit… https://t.co/Hv8cb1QqAL
+    Tweet 841: Not long before his death, XXXTentacion signed a $10 million deal for his next album, which could still be out this… https://t.co/c7T6oZRpGj
+    Tweet 842: 3 social media stars who made a living traveling the world and chronicling their experiences online died last week… https://t.co/83XgAngFCk
+    Tweet 843: Every year, a Japanese-American man visits the internment camp in California where he and his family were held when… https://t.co/8jgrmvQ8df
+    Tweet 844: First comes love, then comes … prenup? 💸 https://t.co/euENzMqGsu
+    Tweet 845: Human rights advocates say that this is the latest in a series of overly severe judgments aimed at stamping out dis… https://t.co/QohAVKBQFe
+    Tweet 846: Elon Musk offered strategies on how save the boys trapped in a Thai cave. One idea uses part of a SpaceX rocket to… https://t.co/a1cU6eP4nW
+    Tweet 847: A resolution to encourage breast-feeding was expected to be approved quickly and easily. Then the U.S.  delegation,… https://t.co/lZPR17RI51
+    Tweet 848: Thailand Cave Rescue Live Updates: At Least 4 Boys Leave Cave, Officials Say https://t.co/T1o7K1KnHo
+    Tweet 849: 4 of the Thai boys have safely made the harrowing underwater passage out of the cave and were at the local hospital https://t.co/vcyK0Z6SjR
+    Tweet 850: Lawyers for President Trump’s former campaign chairman want to move the trial away from Washington, where they say… https://t.co/HgyapL7pN0
+    Tweet 851: Need more World Cup content in between games? Try these books. https://t.co/iyEivYlA9O
+    Tweet 852: This French start-up says it has created fashion’s first search engine. But what does that even mean? https://t.co/uThFCUQLvQ
+    Tweet 853: There are schools inside the shelters and detention centers housing migrant children. The education offered is unev… https://t.co/gfeekjYxNa
+    Tweet 854: Scott Pruitt’s fall from the EPA is a story of his diminishing relationship with many of his closest loyalists https://t.co/nLipsbEuHj
+    Tweet 855: Breaking News: The first members of the soccer team trapped in a cave in Thailand have been rescued, officials say
     https://t.co/oswfwf0xBN
-    Tweet 855: Macerata, Italy, once had a reputation for embracing migrants. But the town has turned on them after a killing and… https://t.co/CgxSC09kGp
-    Tweet 856: The majority of romance novels on the best-seller lists are by and about white, heterosexual people. These writers… https://t.co/KrQb3ZPzGE
-    Tweet 857: A downside to fame in the social media age: a flood of bogus celebrity accounts that spread lies, pledge love and d… https://t.co/RAJe8DtryD
-    Tweet 858: Democratic senators in tough races in red states are in a bind: If they vote for a Trump court pick, they may save… https://t.co/xVegvnhou1
-    Tweet 859: Airline Crew Have Higher Cancer Rates https://t.co/SzsHapTold
-    Tweet 860: The Selfie That Dares to Go There https://t.co/zX8jvprjIZ
-    Tweet 861: Wimbledon Has a New Doubles Event: Tennis and the World Cup https://t.co/0GoL0qWDoe
-    Tweet 862: Many of the Islamic State's senior leaders have been killed. But American intelligence and military officials warn… https://t.co/p73wzbuhB9
-    Tweet 863: A Good Appetite: Lamb, Under Fire, and at Its Best https://t.co/YT69F13GCo
-    Tweet 864: A small Italian town once boasted of a “welcoming spirit.” Now it's a symbol for a resurgent right-wing movement. https://t.co/FI5Q3CORKz
-    Tweet 865: Masih Alinejad tells the story of her near-meteoric rise from peasant girl with no diploma to intrepid journalist w… https://t.co/PDc6IEPUlH
-    Tweet 866: Pompeo Sharpens Tone on North Korea: ‘The World Is a Gangster’ https://t.co/FWaMXbTiEU
-    Tweet 867: It's a ridiculous movie, but, at 64, Jackie Chan is still the most talented and witty athlete in cinema https://t.co/ysENkz2dP5
-    Tweet 868: Tech tools are far more efficient at keeping your plans organized and easily accessible https://t.co/qVgGSRkle3
-    Tweet 869: Don't be a bridezilla. Here are a few ways to help your bridesmaids save money. https://t.co/QVfVvLQCQ6
-    Tweet 870: Dog strollers, pawdicures and doga are just some of the ways pet lovers pamper their “fur babies” https://t.co/QIIqyUQRS9
-    Tweet 871: In China, the Opium War came to be seen as the beginning of a century of humiliations at Western hands https://t.co/6GQvrtZYYS
-    Tweet 872: "I took them to a party and got rave reviews and some guests took a few home with them" — a reader https://t.co/VwqjuVAfRj
-    Tweet 873: Because comfort food isn't just for cold weather https://t.co/ZK6fHpAcHE
-    Tweet 874: Long ago, Nick Offerman and Megan Mullally made a rule that they would never be apart for more than 2 weeks https://t.co/Ne5uTIalKq
-    Tweet 875: You asked, @nytimeswell answered: If one family member has mono, is the whole family at risk of catching it? https://t.co/KrSotnNZbA
-    Tweet 876: There’s Compliment Your Mirror Day. And National Meteor Watch Day. And Cell Phone Courtesy Month. Yes, really. https://t.co/dnw1mEIN0A
-    Tweet 877: This dog's nose knows if any of the bees have been killed by harmful bacteria https://t.co/b2jLxkI1T6
-    Tweet 878: The time for fruit salad fragrances, one might say, is ripe https://t.co/gPt8AGWNTQ
-    Tweet 879: Coffee may help you live longer, but it’s not because of the caffeine https://t.co/SQDvpPWKnc
-    Tweet 880: Where can a book-buying baby boomer turn when the grandkids already own all the classics? https://t.co/b2iahWddIT
-    Tweet 881: "Propane has no flavor, and charcoal isn’t much better. The aroma and flavor of wood are in a league of their own." https://t.co/bmFAV1sqQP
-    Tweet 882: When summer weather turns sultry, museums can be very cool places to be https://t.co/l337JcOVC7
-    Tweet 883: “Since my mom died, the only place I've really found her is in the garden she helped create” https://t.co/6yMuEp9Ozk
-    Tweet 884: There’s only one catch. You have to fill out an application, get interviewed and pay a fee. https://t.co/LwHNa76jRY
-    Tweet 885: A rescue in Thailand is underway to save 12 trapped boys and their soccer coach, officials said
+    Tweet 856: Macerata, Italy, once had a reputation for embracing migrants. But the town has turned on them after a killing and… https://t.co/CgxSC09kGp
+    Tweet 857: The majority of romance novels on the best-seller lists are by and about white, heterosexual people. These writers… https://t.co/KrQb3ZPzGE
+    Tweet 858: A downside to fame in the social media age: a flood of bogus celebrity accounts that spread lies, pledge love and d… https://t.co/RAJe8DtryD
+    Tweet 859: Democratic senators in tough races in red states are in a bind: If they vote for a Trump court pick, they may save… https://t.co/xVegvnhou1
+    Tweet 860: Airline Crew Have Higher Cancer Rates https://t.co/SzsHapTold
+    Tweet 861: The Selfie That Dares to Go There https://t.co/zX8jvprjIZ
+    Tweet 862: Wimbledon Has a New Doubles Event: Tennis and the World Cup https://t.co/0GoL0qWDoe
+    Tweet 863: Many of the Islamic State's senior leaders have been killed. But American intelligence and military officials warn… https://t.co/p73wzbuhB9
+    Tweet 864: A Good Appetite: Lamb, Under Fire, and at Its Best https://t.co/YT69F13GCo
+    Tweet 865: A small Italian town once boasted of a “welcoming spirit.” Now it's a symbol for a resurgent right-wing movement. https://t.co/FI5Q3CORKz
+    Tweet 866: Masih Alinejad tells the story of her near-meteoric rise from peasant girl with no diploma to intrepid journalist w… https://t.co/PDc6IEPUlH
+    Tweet 867: Pompeo Sharpens Tone on North Korea: ‘The World Is a Gangster’ https://t.co/FWaMXbTiEU
+    Tweet 868: It's a ridiculous movie, but, at 64, Jackie Chan is still the most talented and witty athlete in cinema https://t.co/ysENkz2dP5
+    Tweet 869: Tech tools are far more efficient at keeping your plans organized and easily accessible https://t.co/qVgGSRkle3
+    Tweet 870: Don't be a bridezilla. Here are a few ways to help your bridesmaids save money. https://t.co/QVfVvLQCQ6
+    Tweet 871: Dog strollers, pawdicures and doga are just some of the ways pet lovers pamper their “fur babies” https://t.co/QIIqyUQRS9
+    Tweet 872: In China, the Opium War came to be seen as the beginning of a century of humiliations at Western hands https://t.co/6GQvrtZYYS
+    Tweet 873: "I took them to a party and got rave reviews and some guests took a few home with them" — a reader https://t.co/VwqjuVAfRj
+    Tweet 874: Because comfort food isn't just for cold weather https://t.co/ZK6fHpAcHE
+    Tweet 875: Long ago, Nick Offerman and Megan Mullally made a rule that they would never be apart for more than 2 weeks https://t.co/Ne5uTIalKq
+    Tweet 876: You asked, @nytimeswell answered: If one family member has mono, is the whole family at risk of catching it? https://t.co/KrSotnNZbA
+    Tweet 877: There’s Compliment Your Mirror Day. And National Meteor Watch Day. And Cell Phone Courtesy Month. Yes, really. https://t.co/dnw1mEIN0A
+    Tweet 878: This dog's nose knows if any of the bees have been killed by harmful bacteria https://t.co/b2jLxkI1T6
+    Tweet 879: The time for fruit salad fragrances, one might say, is ripe https://t.co/gPt8AGWNTQ
+    Tweet 880: Coffee may help you live longer, but it’s not because of the caffeine https://t.co/SQDvpPWKnc
+    Tweet 881: Where can a book-buying baby boomer turn when the grandkids already own all the classics? https://t.co/b2iahWddIT
+    Tweet 882: "Propane has no flavor, and charcoal isn’t much better. The aroma and flavor of wood are in a league of their own." https://t.co/bmFAV1sqQP
+    Tweet 883: When summer weather turns sultry, museums can be very cool places to be https://t.co/l337JcOVC7
+    Tweet 884: “Since my mom died, the only place I've really found her is in the garden she helped create” https://t.co/6yMuEp9Ozk
+    Tweet 885: There’s only one catch. You have to fill out an application, get interviewed and pay a fee. https://t.co/LwHNa76jRY
+    Tweet 886: A rescue in Thailand is underway to save 12 trapped boys and their soccer coach, officials said
     https://t.co/oswfwf0xBN
-    Tweet 886: "I resolutely believe," Nigella Lawson writes, "that potatoes are so much better dressed in oil and vinegar (but it… https://t.co/mnibD6arUO
-    Tweet 887: Proof of Children’s Vaccinations? Italy Will Now Take Parents’ Word for It https://t.co/Gr5ZUtRrgl
-    Tweet 888: Bullying, divorce, school shootings, racism and gender identity are just some of the issues teenagers grapple with… https://t.co/G6pAZFMZjm
-    Tweet 889: For @NellieBowles, who writes about tech culture for The New York Times, the most crucial tech tool for doing work… https://t.co/YFli5g1DEb
-    Tweet 890: Several large hotel chains are now trying to compete with Airbnb https://t.co/se8KT0F51x
-    Tweet 891: Facebook Removes a Gospel Group’s Music Video https://t.co/Z5tjF2W3dk
-    Tweet 892: Millennial pink's reign may be nearing an end. Is a new age upon us? https://t.co/DHIhFjlLh6
-    Tweet 893: Tommy Nutter was one of the great characters of fashion if not, perhaps, one of the greats. The Beatles wore him on… https://t.co/iec4JVpdFv
-    Tweet 894: 9 toys that will help keep kids engaged during long summer days https://t.co/IQBL7bQcZz
-    Tweet 895: Make these classic cookout dishes indoors then dine near an open window https://t.co/hPRI09rgEY
-    Tweet 896: It's high blueberry season in South Jersey. Here's where to go for small farms and heirloom berries. https://t.co/AyaGxjxuD1
-    Tweet 897: McConnell Tries to Nudge Trump Toward Two Supreme Court Options https://t.co/lpOEistrK1
-    Tweet 898: Family businesses are turning to so-called chief learning officers to help them learn to work together https://t.co/TuFwP0Lp1k
-    Tweet 899: More Remains Found Near Home Used by Suspected Canadian Serial Killer https://t.co/eBh5hLysWx
-    Tweet 900: The World Health Organization has made "internet gaming" a diagnosable disorder, but many psychologists are skeptic… https://t.co/WBKp8fTAkJ
-    Tweet 901: “Ant-Man and the Wasp” is based on science. OK, not all of it, but Marvel enlisted a quantum physicist for input. H… https://t.co/DFFmIsmXsF
-    Tweet 902: Russia Was My Obscure Interest. Now Everyone Is Paying Attention. https://t.co/8tm1i88NQV
-    Tweet 903: City Kitchen: A Soup for All Seasons (Even Summer) https://t.co/3eQDcjs884
-    Tweet 904: Elon Musk Thinks a Minisubmarine Could Help in Thai Cave Rescue https://t.co/dhKjd3mH4k
-    Tweet 905: Can marrying someone improve your heart health? https://t.co/AYZdpirkZZ
-    Tweet 906: Don’t be surprised if a TSA agent asks you to remove food from your carry-on https://t.co/w5NKapfTzF
-    Tweet 907: A look inside the Thai cave: Rescuers must navigate narrow, flooded passages with few air pockets to save 12 boys a… https://t.co/VPCnu62AbS
-    Tweet 908: Record Heat in Southern California, and an Ominous Start to Wildfire Season https://t.co/Y34kdOIjDA
-    Tweet 909: In Opinion 
+    Tweet 887: "I resolutely believe," Nigella Lawson writes, "that potatoes are so much better dressed in oil and vinegar (but it… https://t.co/mnibD6arUO
+    Tweet 888: Proof of Children’s Vaccinations? Italy Will Now Take Parents’ Word for It https://t.co/Gr5ZUtRrgl
+    Tweet 889: Bullying, divorce, school shootings, racism and gender identity are just some of the issues teenagers grapple with… https://t.co/G6pAZFMZjm
+    Tweet 890: For @NellieBowles, who writes about tech culture for The New York Times, the most crucial tech tool for doing work… https://t.co/YFli5g1DEb
+    Tweet 891: Several large hotel chains are now trying to compete with Airbnb https://t.co/se8KT0F51x
+    Tweet 892: Facebook Removes a Gospel Group’s Music Video https://t.co/Z5tjF2W3dk
+    Tweet 893: Millennial pink's reign may be nearing an end. Is a new age upon us? https://t.co/DHIhFjlLh6
+    Tweet 894: Tommy Nutter was one of the great characters of fashion if not, perhaps, one of the greats. The Beatles wore him on… https://t.co/iec4JVpdFv
+    Tweet 895: 9 toys that will help keep kids engaged during long summer days https://t.co/IQBL7bQcZz
+    Tweet 896: Make these classic cookout dishes indoors then dine near an open window https://t.co/hPRI09rgEY
+    Tweet 897: It's high blueberry season in South Jersey. Here's where to go for small farms and heirloom berries. https://t.co/AyaGxjxuD1
+    Tweet 898: McConnell Tries to Nudge Trump Toward Two Supreme Court Options https://t.co/lpOEistrK1
+    Tweet 899: Family businesses are turning to so-called chief learning officers to help them learn to work together https://t.co/TuFwP0Lp1k
+    Tweet 900: More Remains Found Near Home Used by Suspected Canadian Serial Killer https://t.co/eBh5hLysWx
+    Tweet 901: The World Health Organization has made "internet gaming" a diagnosable disorder, but many psychologists are skeptic… https://t.co/WBKp8fTAkJ
+    Tweet 902: “Ant-Man and the Wasp” is based on science. OK, not all of it, but Marvel enlisted a quantum physicist for input. H… https://t.co/DFFmIsmXsF
+    Tweet 903: Russia Was My Obscure Interest. Now Everyone Is Paying Attention. https://t.co/8tm1i88NQV
+    Tweet 904: City Kitchen: A Soup for All Seasons (Even Summer) https://t.co/3eQDcjs884
+    Tweet 905: Elon Musk Thinks a Minisubmarine Could Help in Thai Cave Rescue https://t.co/dhKjd3mH4k
+    Tweet 906: Can marrying someone improve your heart health? https://t.co/AYZdpirkZZ
+    Tweet 907: Don’t be surprised if a TSA agent asks you to remove food from your carry-on https://t.co/w5NKapfTzF
+    Tweet 908: A look inside the Thai cave: Rescuers must navigate narrow, flooded passages with few air pockets to save 12 boys a… https://t.co/VPCnu62AbS
+    Tweet 909: Record Heat in Southern California, and an Ominous Start to Wildfire Season https://t.co/Y34kdOIjDA
+    Tweet 910: In Opinion 
     
     David Brooks writes that the power of "Won't You Be My Neighbor?" is in Mr. Rogers’s "radical kindness… https://t.co/QExGtqQb3j
-    Tweet 910: “After all these years, we’re still side by side. And it’s going to stay that way forever, just like our initials o… https://t.co/oVY9Y5lZR0
-    Tweet 911: "I look forward to the day when women — single, married and otherwise — no longer need the words 'husband' and 'bab… https://t.co/3xifkrrh2f
-    Tweet 912: The World Cup is the planet’s most-watched sporting competition. But it's an afterthought for soccer’s elite scouts. https://t.co/FEpaiDnUpI
-    Tweet 913: “Mrs.” Serena Williams is not, anywhere but Wimbledon, actually her name https://t.co/1FL8OFgD1B
-    Tweet 914: “Everyone admits it’s happening, but no one wants to admit it has happened to their families" https://t.co/CAiKbz5LwV
-    Tweet 915: Croatia wins it over Russia in penalties in their quarterfinal match in the 2018 World Cup. Croatia will face Engla… https://t.co/JtBw2Nat6O
-    Tweet 916: Over 200 people have been infected by an intestinal parasite after reportedly eating Del Monte vegetables, authorit… https://t.co/S9ZMO1Ts93
-    Tweet 917: Trump views the Neil Gorsuch nomination as one of the triumphs of his presidency. So for his second pick, the simil… https://t.co/WV1TraYGdG
-    Tweet 918: Anne Frank's family tried to escape the Nazis. The U.S. immigration process got in the way, new research shows. https://t.co/R72xVFo3kD
-    Tweet 919: In Opinion
+    Tweet 911: “After all these years, we’re still side by side. And it’s going to stay that way forever, just like our initials o… https://t.co/oVY9Y5lZR0
+    Tweet 912: "I look forward to the day when women — single, married and otherwise — no longer need the words 'husband' and 'bab… https://t.co/3xifkrrh2f
+    Tweet 913: The World Cup is the planet’s most-watched sporting competition. But it's an afterthought for soccer’s elite scouts. https://t.co/FEpaiDnUpI
+    Tweet 914: “Mrs.” Serena Williams is not, anywhere but Wimbledon, actually her name https://t.co/1FL8OFgD1B
+    Tweet 915: “Everyone admits it’s happening, but no one wants to admit it has happened to their families" https://t.co/CAiKbz5LwV
+    Tweet 916: Croatia wins it over Russia in penalties in their quarterfinal match in the 2018 World Cup. Croatia will face Engla… https://t.co/JtBw2Nat6O
+    Tweet 917: Over 200 people have been infected by an intestinal parasite after reportedly eating Del Monte vegetables, authorit… https://t.co/S9ZMO1Ts93
+    Tweet 918: Trump views the Neil Gorsuch nomination as one of the triumphs of his presidency. So for his second pick, the simil… https://t.co/WV1TraYGdG
+    Tweet 919: Anne Frank's family tried to escape the Nazis. The U.S. immigration process got in the way, new research shows. https://t.co/R72xVFo3kD
+    Tweet 920: In Opinion
     
     Erika R. Cheng, Lauren G. Fiechtner and Aaron E. Carroll write, "In the past decade or so, we have succ… https://t.co/s6AhI9uId6
-    Tweet 920: Many of the Islamic State's senior leaders have been killed. But American intelligence and military officials warn… https://t.co/aWxBJcBif9
-    Tweet 921: If you love yogurt, making your own should be a culinary right of passage https://t.co/yH143aYUy7
-    Tweet 922: Democratic senators in tough races in red states are in a bind: If they vote for a Trump court pick, they may save… https://t.co/2osEnF27KU
-    Tweet 923: In Opinion 
+    Tweet 921: Many of the Islamic State's senior leaders have been killed. But American intelligence and military officials warn… https://t.co/aWxBJcBif9
+    Tweet 922: If you love yogurt, making your own should be a culinary right of passage https://t.co/yH143aYUy7
+    Tweet 923: Democratic senators in tough races in red states are in a bind: If they vote for a Trump court pick, they may save… https://t.co/2osEnF27KU
+    Tweet 924: In Opinion 
     
     Annie Lowrey writes, "The country’s strongest anti-poverty programs are in many cases also its simples… https://t.co/xvFKPhbxcJ
-    Tweet 924: Representative Jim Jordan remains defiant amid accusations from Ohio State University wrestlers who say he knew of… https://t.co/SmtxB72NeF
-    Tweet 925: Trump has said that trade wars are “easy to win.” The question is whether he has a plan to achieve the results he w… https://t.co/maZGcxVpQb
-    Tweet 926: Rather than retreating from flood-prone New York City neighborhoods after Hurricane Sandy, some developers are wadi… https://t.co/aggBaU9stb
-    Tweet 927: RT @NYTNational: In Alabama, a man known as a prisoner's rights advocate is facing death row. But he didn't kill anyone. https://t.co/MyDit…
-    Tweet 928: A downside to fame in the social media age: a flood of bogus celebrity accounts that spread lies, pledge love and d… https://t.co/l3ZfGeaTlh
-    Tweet 929: Records for over 14,000 nursing homes show big fluctuations in staffing from day to day. At one home, there was 1 a… https://t.co/4RScngbgwu
-    Tweet 930: The majority of romance novels on the best-seller lists are by and about white, heterosexual people. These writers… https://t.co/SwDyQV1jCn
-    Tweet 931: Increasingly, the desire to save the sea turtle is winning out, especially among younger Balinese https://t.co/C6i4DEy2mW
-    Tweet 932: Macerata, Italy, once had a reputation for embracing migrants. But the town has turned on them after a killing and… https://t.co/eCyUsWedHE
-    Tweet 933: RT @nytopinion: It’s a mistake to doubt the sincerity of Susan Collins’s and Lisa Murkowski’s dedication to questions of women’s health. Wh…
-    Tweet 934: Your weekend playlist has arrived https://t.co/OsO5M8rT1D
-    Tweet 935: Scott Pruitt’s fall from the EPA is a story of his diminishing relationship with many of his closest loyalists https://t.co/j6HQxGBX21
-    Tweet 936: England breezed past Sweden, 2-0, to enter the semifinals of the World Cup for the first time since 1990 https://t.co/5ZcJ1EBv4s
-    Tweet 937: “We live in a Red Sox/Yankees world. And you have to pick a team,” Alan Dershowitz said. But it's more complicated… https://t.co/jsXSlTv0Xf
-    Tweet 938: Steve Ditko helped create Spider-Man and Dr. Strange, villains like the Green Goblin and Dr. Octopus, and fan favor… https://t.co/r8sYYcXtxO
-    Tweet 939: England leads Sweden, 1-0, in the second half of this World Cup quarterfinal game. Follow live: https://t.co/NLBl0UQ9zQ
-    Tweet 940: There are schools inside the shelters and detention centers housing migrant children. The education offered is unev… https://t.co/roI3oMAneR
-    Tweet 941: Divers have to navigate flooded passages, with some openings as small as 3 feet wide, to rescue 12 boys and their s… https://t.co/pldlN7TmvJ
-    Tweet 942: Another video of a white person calling the police on a black person for an everyday activity has surfaced. This ti… https://t.co/4TE6fjqPMl
-    Tweet 943: Breaking News: North Korea accused the U.S. of a “gangster-like demand for denuclearization,” even as Secretary of… https://t.co/BXuBX1jWpK
-    Tweet 944: These badges have to be worn by all fans at the World Cup. That includes VIPs like Diego Maradona and Sepp Blatter. https://t.co/rn4HfW6Wrz
-    Tweet 945: Al Qaeda-Backed Terrorist Group Has a New Target: Plastic Bags https://t.co/SZpfp6L0H3
-    Tweet 946: A little-known progressive scored a stunning upset in a Democratic primary. Before Alexandria Ocasio-Cortez, there… https://t.co/BYVgZcxZyJ
-    Tweet 947: Amy McGrath went from a U.S. Naval Academy graduate to a Marine combat aviator to a candidate for Congress. Why? Sh… https://t.co/rq2YxGIjFH
-    Tweet 948: England vs. Sweden: World Cup 2018 Live https://t.co/vwZMsYps15
-    Tweet 949: How the watch the World Cup quarterfinals https://t.co/JxV8jorX2i
-    Tweet 950: RT @hfairfield: These are the 76 environmental rules being rolled back by Trump: (EPA involved in about a third of them): https://t.co/FY7b…
-    Tweet 951: Plan to Exhume Franco Renews Spain’s Wrestle With History https://t.co/4A78pCZspD
-    Tweet 952: The best places to watch the World Cup in NYC, whether you're cheering for Croatia, Brazil or Russia https://t.co/IuLnVPxHyC
-    Tweet 953: Dozens Are Killed and 1.6 Million Evacuated as ‘Historic’ Rains Pound Japan https://t.co/2lhQHL8QGX
-    Tweet 954: RT @NYTSports: “Neymar does what all beginning actors do. They oversell the event.” https://t.co/VXkIRwNMOk https://t.co/vN6tWGPuzs
-    Tweet 955: Why England will win the World Cup:
+    Tweet 925: Representative Jim Jordan remains defiant amid accusations from Ohio State University wrestlers who say he knew of… https://t.co/SmtxB72NeF
+    Tweet 926: Trump has said that trade wars are “easy to win.” The question is whether he has a plan to achieve the results he w… https://t.co/maZGcxVpQb
+    Tweet 927: Rather than retreating from flood-prone New York City neighborhoods after Hurricane Sandy, some developers are wadi… https://t.co/aggBaU9stb
+    Tweet 928: RT @NYTNational: In Alabama, a man known as a prisoner's rights advocate is facing death row. But he didn't kill anyone. https://t.co/MyDit…
+    Tweet 929: A downside to fame in the social media age: a flood of bogus celebrity accounts that spread lies, pledge love and d… https://t.co/l3ZfGeaTlh
+    Tweet 930: Records for over 14,000 nursing homes show big fluctuations in staffing from day to day. At one home, there was 1 a… https://t.co/4RScngbgwu
+    Tweet 931: The majority of romance novels on the best-seller lists are by and about white, heterosexual people. These writers… https://t.co/SwDyQV1jCn
+    Tweet 932: Increasingly, the desire to save the sea turtle is winning out, especially among younger Balinese https://t.co/C6i4DEy2mW
+    Tweet 933: Macerata, Italy, once had a reputation for embracing migrants. But the town has turned on them after a killing and… https://t.co/eCyUsWedHE
+    Tweet 934: RT @nytopinion: It’s a mistake to doubt the sincerity of Susan Collins’s and Lisa Murkowski’s dedication to questions of women’s health. Wh…
+    Tweet 935: Your weekend playlist has arrived https://t.co/OsO5M8rT1D
+    Tweet 936: Scott Pruitt’s fall from the EPA is a story of his diminishing relationship with many of his closest loyalists https://t.co/j6HQxGBX21
+    Tweet 937: England breezed past Sweden, 2-0, to enter the semifinals of the World Cup for the first time since 1990 https://t.co/5ZcJ1EBv4s
+    Tweet 938: “We live in a Red Sox/Yankees world. And you have to pick a team,” Alan Dershowitz said. But it's more complicated… https://t.co/jsXSlTv0Xf
+    Tweet 939: Steve Ditko helped create Spider-Man and Dr. Strange, villains like the Green Goblin and Dr. Octopus, and fan favor… https://t.co/r8sYYcXtxO
+    Tweet 940: England leads Sweden, 1-0, in the second half of this World Cup quarterfinal game. Follow live: https://t.co/NLBl0UQ9zQ
+    Tweet 941: There are schools inside the shelters and detention centers housing migrant children. The education offered is unev… https://t.co/roI3oMAneR
+    Tweet 942: Divers have to navigate flooded passages, with some openings as small as 3 feet wide, to rescue 12 boys and their s… https://t.co/pldlN7TmvJ
+    Tweet 943: Another video of a white person calling the police on a black person for an everyday activity has surfaced. This ti… https://t.co/4TE6fjqPMl
+    Tweet 944: Breaking News: North Korea accused the U.S. of a “gangster-like demand for denuclearization,” even as Secretary of… https://t.co/BXuBX1jWpK
+    Tweet 945: These badges have to be worn by all fans at the World Cup. That includes VIPs like Diego Maradona and Sepp Blatter. https://t.co/rn4HfW6Wrz
+    Tweet 946: Al Qaeda-Backed Terrorist Group Has a New Target: Plastic Bags https://t.co/SZpfp6L0H3
+    Tweet 947: A little-known progressive scored a stunning upset in a Democratic primary. Before Alexandria Ocasio-Cortez, there… https://t.co/BYVgZcxZyJ
+    Tweet 948: Amy McGrath went from a U.S. Naval Academy graduate to a Marine combat aviator to a candidate for Congress. Why? Sh… https://t.co/rq2YxGIjFH
+    Tweet 949: England vs. Sweden: World Cup 2018 Live https://t.co/vwZMsYps15
+    Tweet 950: How the watch the World Cup quarterfinals https://t.co/JxV8jorX2i
+    Tweet 951: RT @hfairfield: These are the 76 environmental rules being rolled back by Trump: (EPA involved in about a third of them): https://t.co/FY7b…
+    Tweet 952: Plan to Exhume Franco Renews Spain’s Wrestle With History https://t.co/4A78pCZspD
+    Tweet 953: The best places to watch the World Cup in NYC, whether you're cheering for Croatia, Brazil or Russia https://t.co/IuLnVPxHyC
+    Tweet 954: Dozens Are Killed and 1.6 Million Evacuated as ‘Historic’ Rains Pound Japan https://t.co/2lhQHL8QGX
+    Tweet 955: RT @NYTSports: “Neymar does what all beginning actors do. They oversell the event.” https://t.co/VXkIRwNMOk https://t.co/vN6tWGPuzs
+    Tweet 956: Why England will win the World Cup:
     • England is healthy, rested and young
     • England is great at set pieces
     
     Why En… https://t.co/k8ihInmPrb
-    Tweet 956: Lions on a South African game reserve ate as many as 3 men who were suspected of poaching rhinos https://t.co/oJdlJs1vj2
-    Tweet 957: "Everything about the weeklong Caribbean cruise is meant to buff life’s unpleasant edges into sea glass. If it soun… https://t.co/ZYIi1VINsr
-    Tweet 958: "All plant-based foods are 'superfoods' in the sense that they offer fiber, vitamins, minerals and phytonutrients" https://t.co/YGxTNw9zp6
-    Tweet 959: It's a shame we're talking about Zlatan Ibrahimovic as Sweden approaches the World Cup quarterfinals for the first… https://t.co/0bsZ3WYMAu
-    Tweet 960: The Look: Bomba: The Enduring Anthem of Puerto Rico https://t.co/4kQo4GVXV9
-    Tweet 961: In St. Petersburg, Managing Sleep and Soccer https://t.co/iVSmestwpL
-    Tweet 962: Nonfiction: The Opium War and the Humiliation of China https://t.co/zP8SOHgyrx
-    Tweet 963: "Everything about the weeklong Caribbean cruise is meant to buff life’s unpleasant edges into sea glass. If it soun… https://t.co/r0CnvwiTWt
-    Tweet 964: What you pay at the pharmacy for generic drugs can vary widely based on where you live https://t.co/Kxmgh6M0nd
-    Tweet 965: RT @nytopinion: Ben Carson, Trump's secretary of HUD and a devout Seventh-day Adventist, has described commitment to the separation of chur…
-    Tweet 966: Here’s Some Cryptocurrency. Now Please Use It. https://t.co/foYqmXlk0H
-    Tweet 967: The new White House communications official, Bill Shine, lifted Fox News but carries the weight of the network’s ha… https://t.co/KUU2OroAlV
-    Tweet 968: If you’re seeing “Sorry to Bother You” this weekend, stream these titles afterwards
+    Tweet 957: Lions on a South African game reserve ate as many as 3 men who were suspected of poaching rhinos https://t.co/oJdlJs1vj2
+    Tweet 958: "Everything about the weeklong Caribbean cruise is meant to buff life’s unpleasant edges into sea glass. If it soun… https://t.co/ZYIi1VINsr
+    Tweet 959: "All plant-based foods are 'superfoods' in the sense that they offer fiber, vitamins, minerals and phytonutrients" https://t.co/YGxTNw9zp6
+    Tweet 960: It's a shame we're talking about Zlatan Ibrahimovic as Sweden approaches the World Cup quarterfinals for the first… https://t.co/0bsZ3WYMAu
+    Tweet 961: The Look: Bomba: The Enduring Anthem of Puerto Rico https://t.co/4kQo4GVXV9
+    Tweet 962: In St. Petersburg, Managing Sleep and Soccer https://t.co/iVSmestwpL
+    Tweet 963: Nonfiction: The Opium War and the Humiliation of China https://t.co/zP8SOHgyrx
+    Tweet 964: "Everything about the weeklong Caribbean cruise is meant to buff life’s unpleasant edges into sea glass. If it soun… https://t.co/r0CnvwiTWt
+    Tweet 965: What you pay at the pharmacy for generic drugs can vary widely based on where you live https://t.co/Kxmgh6M0nd
+    Tweet 966: RT @nytopinion: Ben Carson, Trump's secretary of HUD and a devout Seventh-day Adventist, has described commitment to the separation of chur…
+    Tweet 967: Here’s Some Cryptocurrency. Now Please Use It. https://t.co/foYqmXlk0H
+    Tweet 968: The new White House communications official, Bill Shine, lifted Fox News but carries the weight of the network’s ha… https://t.co/KUU2OroAlV
+    Tweet 969: If you’re seeing “Sorry to Bother You” this weekend, stream these titles afterwards
     https://t.co/SjNEzDIoxa
-    Tweet 969: If you’re going to adopt a country for the World Cup, why not one you experienced firsthand? https://t.co/mmVCGJzaJH
-    Tweet 970: RT @nytimesbooks: Ta-Nehisi Coates takes the helm of Captain America this month. He explains where he’s taking the Star-Spangled Avenger in…
-    Tweet 971: The World Cup is the planet’s most-watched sporting competition. But it's an afterthought for soccer’s elite scouts. https://t.co/nsKLuSVlpF
-    Tweet 972: Visiting Seattle? Here’s what to eat, drink, see and visit in the rapidly growing city. https://t.co/PGcxFwyp3C
-    Tweet 973: Visiting Seattle? Here’s what to eat, drink, see and visit in the rapidly growing city. https://t.co/HnonZtQ2fQ
-    Tweet 974: Pompeo and North Korean Official Meet for 2nd Day of Talks https://t.co/8wd7XDZDWA
-    Tweet 975: Because summer fun doesn't have to be expensive https://t.co/DmAdpINJ9V
-    Tweet 976: Here are the details for each environmental policy that the Trump administration has targeted  https://t.co/LNe6KPYy3Q
-    Tweet 977: 9 reads almost as satisfying as taking a vacation https://t.co/3xgL2quywp
-    Tweet 978: RT @RorySmith: “If you don’t know every player who’s here beforehand, you haven’t done your work properly.”
+    Tweet 970: If you’re going to adopt a country for the World Cup, why not one you experienced firsthand? https://t.co/mmVCGJzaJH
+    Tweet 971: RT @nytimesbooks: Ta-Nehisi Coates takes the helm of Captain America this month. He explains where he’s taking the Star-Spangled Avenger in…
+    Tweet 972: The World Cup is the planet’s most-watched sporting competition. But it's an afterthought for soccer’s elite scouts. https://t.co/nsKLuSVlpF
+    Tweet 973: Visiting Seattle? Here’s what to eat, drink, see and visit in the rapidly growing city. https://t.co/PGcxFwyp3C
+    Tweet 974: Visiting Seattle? Here’s what to eat, drink, see and visit in the rapidly growing city. https://t.co/HnonZtQ2fQ
+    Tweet 975: Pompeo and North Korean Official Meet for 2nd Day of Talks https://t.co/8wd7XDZDWA
+    Tweet 976: Because summer fun doesn't have to be expensive https://t.co/DmAdpINJ9V
+    Tweet 977: Here are the details for each environmental policy that the Trump administration has targeted  https://t.co/LNe6KPYy3Q
+    Tweet 978: 9 reads almost as satisfying as taking a vacation https://t.co/3xgL2quywp
+    Tweet 979: RT @RorySmith: “If you don’t know every player who’s here beforehand, you haven’t done your work properly.”
     
     Why globalisation, analytics a…
-    Tweet 979: The monument comes with no plaque or explanation. The urge to hit CTRL-ALT-DEL and see what happens is powerful. https://t.co/q7bIHF0sDf
-    Tweet 980: New Yorkers can camp – and glamp – within the city limits. Views include both stars and skyscrapers. https://t.co/YIFnY926ZY
-    Tweet 981: RT @meslackman: Liberté, Égalité, Fraternité” is not just France’s motto, it is the law. In fact, the nation’s highest constitutional tribu…
-    Tweet 982: Paul Manafort Seeks to Move Criminal Trial Hundreds of Miles From Washington https://t.co/pySaHULlo0
-    Tweet 983: RT @nytgraphics: The obstacles and tasks ahead of rescue divers attempting to save 12 boys and their soccer coach from a cave. https://t.co…
-    Tweet 984: "Try and keep your cool. The bad stuff happens when you don't." https://t.co/sqziBOdgUV
-    Tweet 985: RT @amyfiscus: NEW: Trump is growing less likely to sit for an interview with Mueller.  @nytmike and @maggieNYT explain why Trump and his l…
-    Tweet 986: RT @EricLiptonNYT: When Trump administration started all the talk was about how "Deep State" would complicate efforts of Trump appointees,…
-    Tweet 987: RT @EricLiptonNYT: SCOOP: EPA, in last day that Pruitt is administrator, moves to circumvent limit on manufacturing of "super polluting" di…
-    Tweet 988: Anne Frank’s Family Was Thwarted by United States Immigration Rules, New Research Shows https://t.co/uL88SyD9Sp
-    Tweet 989: Scarlett Johansson faced a storm of criticism after it was reported that she would play a transgender man in a movie https://t.co/HDGyEFlqmy
-    Tweet 990: “We have held on to that idea that men are supposed to provide, but have loosened up on the idea that women have to… https://t.co/bSjhpxeVwk
-    Tweet 991: ‘Super Polluting’ Trucks Receive Loophole on Pruitt’s Last Day https://t.co/y9hvV69VAV
-    Tweet 992: This new Netflix special lets viewers in on one of comedy’s biggest secrets: the funniest stand-ups are the ones yo… https://t.co/kxbjiyhgIm
-    Tweet 993: Why aren't people of childbearing age having as many children as they used to? We asked them. https://t.co/mFSAhZmqjc
-    Tweet 994: Vans is saying goodbye to the music festival that made it cool https://t.co/mkX0tpVuXu
-    Tweet 995: A delicious way to use up summer squash (and some cheese) https://t.co/9QEir8UjzC
-    Tweet 996: “It’s such trash you just get sucked into it,” said one fan of the British reality show “Love Island” https://t.co/dHCeNAwAxm
-    Tweet 997: How smart TVs in millions of U.S. homes track more than what’s on tonight https://t.co/Uv37O7nM0X
-    Tweet 998: The Lure of the Surfing Life https://t.co/d2UgPjq60d
-    Tweet 999: Jim Jordan Is Defiant as Allegations Mount, and Supporters Point to ‘Deep State’ https://t.co/DYgjcsX1Y0
-    Tweet 1000: Scott Pruitt’s Strained Ties With Aides Set the Stage for His Fall https://t.co/zyagUNAVVm
+    Tweet 980: The monument comes with no plaque or explanation. The urge to hit CTRL-ALT-DEL and see what happens is powerful. https://t.co/q7bIHF0sDf
+    Tweet 981: New Yorkers can camp – and glamp – within the city limits. Views include both stars and skyscrapers. https://t.co/YIFnY926ZY
+    Tweet 982: RT @meslackman: Liberté, Égalité, Fraternité” is not just France’s motto, it is the law. In fact, the nation’s highest constitutional tribu…
+    Tweet 983: Paul Manafort Seeks to Move Criminal Trial Hundreds of Miles From Washington https://t.co/pySaHULlo0
+    Tweet 984: RT @nytgraphics: The obstacles and tasks ahead of rescue divers attempting to save 12 boys and their soccer coach from a cave. https://t.co…
+    Tweet 985: "Try and keep your cool. The bad stuff happens when you don't." https://t.co/sqziBOdgUV
+    Tweet 986: RT @amyfiscus: NEW: Trump is growing less likely to sit for an interview with Mueller.  @nytmike and @maggieNYT explain why Trump and his l…
+    Tweet 987: RT @EricLiptonNYT: When Trump administration started all the talk was about how "Deep State" would complicate efforts of Trump appointees,…
+    Tweet 988: RT @EricLiptonNYT: SCOOP: EPA, in last day that Pruitt is administrator, moves to circumvent limit on manufacturing of "super polluting" di…
+    Tweet 989: Anne Frank’s Family Was Thwarted by United States Immigration Rules, New Research Shows https://t.co/uL88SyD9Sp
+    Tweet 990: Scarlett Johansson faced a storm of criticism after it was reported that she would play a transgender man in a movie https://t.co/HDGyEFlqmy
+    Tweet 991: “We have held on to that idea that men are supposed to provide, but have loosened up on the idea that women have to… https://t.co/bSjhpxeVwk
+    Tweet 992: ‘Super Polluting’ Trucks Receive Loophole on Pruitt’s Last Day https://t.co/y9hvV69VAV
+    Tweet 993: This new Netflix special lets viewers in on one of comedy’s biggest secrets: the funniest stand-ups are the ones yo… https://t.co/kxbjiyhgIm
+    Tweet 994: Why aren't people of childbearing age having as many children as they used to? We asked them. https://t.co/mFSAhZmqjc
+    Tweet 995: Vans is saying goodbye to the music festival that made it cool https://t.co/mkX0tpVuXu
+    Tweet 996: A delicious way to use up summer squash (and some cheese) https://t.co/9QEir8UjzC
+    Tweet 997: “It’s such trash you just get sucked into it,” said one fan of the British reality show “Love Island” https://t.co/dHCeNAwAxm
+    Tweet 998: How smart TVs in millions of U.S. homes track more than what’s on tonight https://t.co/Uv37O7nM0X
+    Tweet 999: The Lure of the Surfing Life https://t.co/d2UgPjq60d
+    Tweet 1000: Jim Jordan Is Defiant as Allegations Mount, and Supporters Point to ‘Deep State’ https://t.co/DYgjcsX1Y0
     Tweet 1001: Justin Bieber Is Officially Taken! All the Women He's Romanced Over the Years https://t.co/TNPv9LoDWP
     Tweet 1002: Drake Bell Visits Drake &amp; Josh House and Discovers It's Gone https://t.co/v3FlgX6gig
     Tweet 1003: In 2011 Hailey Baldwin and Justin Bieber were just two teens at his Never Say Never premiere: https://t.co/FvsFqOC3lP
@@ -1587,7 +1593,7 @@ mood_finder_df["Media Source"].describe()
 
     count     1200
     unique       6
-    top       @BBC
+    top       @CNN
     freq       200
     Name: Media Source, dtype: object
 
@@ -1838,7 +1844,7 @@ sentiment_analysis.figure.savefig('/Users/carolineteti/Sentiment_Twitter_Teti/Se
 ```
 
 
-![png](output_9_0.png)
+![png](output_10_0.png)
 
 
 
@@ -1853,7 +1859,7 @@ scoresbyhandle.head()
     Media Source
     BBC      0.082833
     CBS      0.351216
-    CNN      0.019633
+    CNN      0.021927
     enews    0.158692
     fox      0.221456
     Name: Compound, dtype: float64
@@ -1969,7 +1975,7 @@ scoresbyhandle.head()
     Media Source
     BBC      0.082833
     CBS      0.351216
-    CNN      0.019633
+    CNN      0.021927
     enews    0.158692
     fox      0.221456
     Name: Compound, dtype: float64
@@ -2011,7 +2017,7 @@ plt.savefig('/Users/carolineteti/Sentiment_Twitter_Teti/SentimentAnalysis.png')
 ```
 
 
-![png](output_14_0.png)
+![png](output_15_0.png)
 
 
 
