@@ -1,9 +1,4 @@
-
-3 Trends by Caroline Teti
-
-1) CNN's twitter handle is overall closest to 0 or negative polarity (at time of search, compound score is 0.158692).
-2) CBS's twitter handle tweets are overall: roughly 35% positive (+1) while world news: BBC falls at 10% and CNN at 0%. 
-3) NY times' compound score or tweet sentiment is more positive than enews or fox news during this search. 
+Unveiling the Sentiment Analysis of Tweets with Python, Pandas, Tweepy, API's, Numpy and Matplotlib.
 
 
 ```python
@@ -2023,3 +2018,8 @@ plt.savefig('/Users/carolineteti/Sentiment_Twitter_Teti/SentimentAnalysis.png')
 
     <Figure size 432x288 with 0 Axes>
 
+3 Trends by Caroline Teti
+
+1) CNN's twitter handle is overall closest to 0 or negative polarity (at time of search, compound score is 0.158692).
+2) CBS's twitter handle tweets are overall: roughly 35% positive (+1) while world news: BBC falls at 10% and CNN at 0%. 
+3) NY times' compound score or tweet sentiment is more positive than enews or fox news during this search. 
